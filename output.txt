@@ -1,0 +1,1226 @@
+top 50 words in topic 0
+-------------------------
+['francisco', 'feel', 'fox', 'field', 'disney', 'state', 'pro', 'public', 'credit', 'major', 'education', 'human', 'regular', 'bot', 'healthcare', 'office', 'organizer', 'photography', 'passion', 'creative', 'designer', 'painter', 'entertainment', 'metaverse', 'founder', 'love', 'writer', 'bring', 'instagram', 'artist', 'design', 'normal', 'philosophy', 'stream', 'irl', 'professional', 'composer', 'help', 'nft', 'stylist', 'pacific', 'hunter', 'block', 'special', 'punk', 'twitter', 'account', 'official', 'politics', 'music'] 
+
+
+top 50 words in topic 1
+-------------------------
+['fear', 'free', 'freedom', 'friend', 'forget', 'communications', 'student', 'anti', 'traveler', 'bartender', 'grad', 'musician', 'media', 'tattoo', 'sing', 'bedroom', 'favorite', 'girl', 'wave', 'market', 'team', 'georgia', 'nfts', 'travel', 'track', 'photo', 'good', 'cat', 'papa', 'journalist', 'gamer', 'navy', 'husband', 'people', 'brooklyn', 'daily', 'reporter', 'leo', 'happen', 'dog', 'dad', 'bay', 'bully', 'young', 'drug', 'blue', 'model', 'francisco', 'san', 'retire'] 
+
+
+top 50 words in topic 2
+-------------------------
+['children', 'kid', 'fanatic', 'streamer', 'fitness', 'horror', 'film', 'conservative', 'game', 'anime', 'train', 'professional', 'aviation', 'women', 'college', 'text', 'information', 'basketball', 'organizer', 'actor', 'athlete', 'comedian', 'bedroom', 'rapper', 'writer', 'artist', 'martial', 'twitch', 'wrestle', 'recruit', 'friend', 'activist', 'cars', 'shop', 'subscribe', 'onlyfans', 'punk', 'metal', 'alumnus', 'enthusiast', 'count', 'graduate', 'question', 'hoe', 'school', 'nerd', 'coach', 'war', 'high', 'star'] 
+
+
+top 50 words in topic 3
+-------------------------
+['let', 'world', 'resident', 'business', 'pro', 'talent', 'work', 'communications', 'media', 'baby', 'social', 'marry', 'market', 'esports', 'help', 'text', 'tattoo', 'culture', 'rip', 'agent', 'book', 'winner', 'latino', 'award', 'label', 'model', 'band', 'nigga', 'dick', 'brother', 'big', 'retire', 'university', 'sport', 'native', 'welcome', 'change', 'twitch', 'fun', 'talk', 'love', 'enjoy', 'lot', 'comedian', 'writer', 'everyday', 'podcaster', 'nurse', 'streamer', 'snapchat'] 
+
+
+top 50 words in topic 4
+-------------------------
+['law', 'beauty', 'read', 'figure', 'happy', 'employer', 'sad', 'represent', 'advisor', 'pansexual', 'custom', 'financial', 'videos', 'club', 'truck', 'army', 'meteorologist', 'cal', 'opinions', 'animals', 'manager', 'media', 'social', 'touch', 'video', 'content', 'creator', 'amateur', 'matter', 'pro', 'movies', 'best', 'bring', 'writer', 'time', 'travel', 'soccer', 'nyc', 'good', 'cash', 'photographer', 'play', 'fashion', 'game', 'old', 'music', 'book', 'market', 'enjoy', 'life'] 
+
+
+top 50 words in topic 5
+-------------------------
+['pro', 'leo', 'houston', 'favorite', 'support', 'science', 'mix', 'anti', 'scorpio', 'lord', 'power', 'kind', 'crazy', 'pay', 'instagram', 'real', 'xbox', 'friends', 'night', 'runner', 'junkie', 'podcaster', 'boy', 'avid', 'die', 'unite', 'beach', 'hard', 'fear', 'art', 'travel', 'self', 'life', 'fan', 'gym', 'fight', 'widow', 'aries', 'leave', 'white', 'spirit', 'marry', 'girl', 'freedom', 'family', 'twitter', 'cat', 'beautiful', 'god', 'love'] 
+
+
+top 50 words in topic 6
+-------------------------
+['lifestyle', 'winner', 'advocate', 'rapper', 'gemini', 'twitter', 'audio', 'publisher', 'tire', 'blogger', 'tattoo', 'emmy', 'tech', 'engineer', 'award', 'content', 'cover', 'dog', 'scorpio', 'southern', 'comic', 'teacher', 'political', 'mom', 'lover', 'manager', 'aspire', 'junkie', 'movie', 'thinker', 'poet', 'music', 'old', 'original', 'vegan', 'musician', 'navy', 'nerd', 'vet', 'taste', 'account', 'writer', 'love', 'alumni', 'heart', 'wrestle', 'fan', 'project', 'soul', 'collector'] 
+
+
+top 50 words in topic 7
+-------------------------
+['friends', 'fuck', 'fun', 'funny', 'francisco', 'financial', 'football', 'film', 'feature', 'fee', 'filmmaker', 'field', 'fight', 'favorite', 'fav', 'feel', 'fear', 'fighter', 'artist', 'past', 'digital', 'support', 'hop', 'arsenal', 'midwest', 'figure', 'leo', 'everyday', 'reality', 'ceo', 'entertainment', 'millionaire', 'snapchat', 'personal', 'market', 'business', 'death', 'goal', 'cause', 'dream', 'future', 'game', 'dad', 'touch', 'public', 'bless', 'rip', 'die', 'pizza', 'follow'] 
+
+
+top 50 words in topic 8
+-------------------------
+['west', 'lot', 'real', 'account', 'good', 'think', 'person', 'snap', 'marathon', 'usc', 'runner', 'engineer', 'trojan', 'florida', 'work', 'talent', 'value', 'healthcare', 'mom', 'enthusiast', 'anime', 'metal', 'hoe', 'horror', 'goth', 'dog', 'plant', 'style', 'family', 'taste', 'life', 'native', 'blood', 'art', 'wild', 'founder', 'entrepreneur', 'dead', 'gang', 'aries', 'twitch', 'affiliate', 'world', 'thoughts', 'play', 'love', 'live', 'hot', 'make', 'bitch'] 
+
+
+top 50 words in topic 9
+-------------------------
+['latest', 'far', 'fashion', 'fighter', 'family', 'fan', 'favorite', 'fav', 'fear', 'feature', 'fee', 'feel', 'field', 'fall', 'fanatic', 'fast', 'happy', 'ass', 'control', 'navigate', 'twitter', 'advice', 'friend', 'care', 'big', 'old', 'father', 'amaze', 'tech', 'art', 'modern', 'travel', 'culture', 'new', 'entrepreneur', 'entertainment', 'cashapp', 'connect', 'daughter', 'photos', 'urban', 'smile', 'wave', 'like', 'nerd', 'learn', 'financial', 'school', 'blm', 'mom'] 
+
+
+top 50 words in topic 10
+-------------------------
+['restaurant', 'atlanta', 'old', 'fitness', 'speaker', 'opinions', 'game', 'college', 'rise', 'baseball', 'death', 'cool', 'player', 'soccer', 'feature', 'collector', 'junkie', 'pacific', 'owner', 'announcer', 'hop', 'athletics', 'change', 'account', 'writer', 'nft', 'sport', 'insta', 'buy', 'click', 'christian', 'award', 'public', 'school', 'university', 'proud', 'book', 'win', 'light', 'entertainment', 'run', 'bio', 'nerd', 'middle', 'tweet', 'creator', 'husband', 'father', 'play', 'photographer'] 
+
+
+top 50 words in topic 11
+-------------------------
+['fanatic', 'father', 'brother', 'chief', 'leader', 'columbia', 'usc', 'medical', 'american', 'politics', 'drag', 'sweet', 'enthusiast', 'night', 'people', 'cat', 'band', 'shark', 'lot', 'warriors', 'boston', 'community', 'digital', 'reporter', 'editor', 'lover', 'proud', 'account', 'marry', 'book', 'great', 'grad', 'xbox', 'chargers', 'click', 'nba', 'kings', 'play', 'girl', 'generation', 'old', 'baseball', 'sport', 'champion', 'breed', 'ucla', 'houston', 'tweet', 'wanna', 'gamer'] 
+
+
+top 50 words in topic 12
+-------------------------
+['certify', 'quality', 'control', 'best', 'grow', 'person', 'class', 'joke', 'like', 'tech', 'stage', 'hand', 'college', 'papa', 'support', 'sweet', 'liberal', 'teach', 'lawyer', 'forever', 'man', 'vote', 'composer', 'word', 'agency', 'business', 'nerd', 'deep', 'instructor', 'professor', 'journalist', 'south', 'speaker', 'book', 'geek', 'state', 'family', 'product', 'columbia', 'shit', 'writer', 'let', 'fight', 'label', 'owner', 'lover', 'random', 'tweet', 'editor', 'california'] 
+
+
+top 50 words in topic 13
+-------------------------
+['feature', 'father', 'fast', 'fav', 'latest', 'favorite', 'fear', 'focus', 'nba', 'security', 'nft', 'community', 'icon', 'illustrator', 'central', 'bean', 'black', 'family', 'meteorologist', 'conservative', 'advice', 'hospital', 'practice', 'aviation', 'seattle', 'big', 'owner', 'band', 'tweet', 'artist', 'avid', 'past', 'discord', 'opinions', 'collector', 'district', 'proud', 'geek', 'designer', 'connecticut', 'respond', 'friend', 'wrestle', 'voice', 'songwriter', 'sport', 'singer', 'actor', 'account', 'fan'] 
+
+
+top 50 words in topic 14
+-------------------------
+['father', 'fav', 'favorite', 'lover', 'owner', 'book', 'lol', 'goofy', 'painter', 'hop', 'nyc', 'team', 'small', 'software', 'vegas', 'hard', 'club', 'baseball', 'security', 'pansexual', 'entrepreneur', 'promoter', 'miami', 'lifestyle', 'actor', 'specialist', 'doctor', 'therapy', 'enthusiast', 'office', 'home', 'alumnus', 'talent', 'smart', 'fanatic', 'funny', 'burn', 'mind', 'grandma', 'illustrator', 'podcast', 'sport', 'universe', 'proud', 'livin', 'texas', 'university', 'bear', 'raise', 'state'] 
+
+
+top 50 words in topic 15
+-------------------------
+['culture', 'travel', 'food', 'wine', 'focus', 'family', 'better', 'researcher', 'advocate', 'make', 'world', 'place', 'tree', 'radio', 'foodie', 'fitness', 'speaker', 'candidate', 'profit', 'diego', 'comedy', 'champion', 'blogger', 'martial', 'trainer', 'artist', 'trans', 'seattle', 'master', 'san', 'home', 'aficionado', 'support', 'bad', 'athletics', 'oakland', 'lover', 'truck', 'specialist', 'stay', 'book', 'activist', 'stage', 'boys', 'music', 'social', 'football', 'feel', 'media', 'founder'] 
+
+
+top 50 words in topic 16
+-------------------------
+['blogger', 'humanist', 'social', 'lead', 'opinion', 'network', 'everyday', 'sport', 'welcome', 'website', 'anime', 'research', 'tree', 'animals', 'blue', 'save', 'vote', 'producer', 'arts', 'grad', 'visual', 'designer', 'resident', 'chicago', 'question', 'marry', 'long', 'help', 'clean', 'free', 'pay', 'want', 'air', 'food', 'water', 'house', 'music', 'founder', 'company', 'content', 'creator', 'culture', 'gun', 'healthcare', 'psn', 'industry', 'life', 'advocate', 'american', 'live'] 
+
+
+top 50 words in topic 17
+-------------------------
+['fuck', 'fighter', 'fight', 'youtuber', 'field', 'fashion', 'fast', 'father', 'fav', 'fear', 'feature', 'fee', 'favorite', 'feel', 'goofy', 'cub', 'cowboys', 'introvert', 'pretty', 'joke', 'major', 'football', 'therapy', 'game', 'anime', 'money', 'sneakers', 'snapchat', 'unite', 'collect', 'count', 'art', 'big', 'tour', 'gonna', 'addict', 'instagram', 'college', 'owner', 'love', 'dream', 'class', 'videographer', 'music', 'history', 'cashapp', 'photographer', 'video', 'read', 'mother'] 
+
+
+top 50 words in topic 18
+-------------------------
+['nerd', 'team', 'san', 'transplant', 'snapchat', 'awesome', 'kentucky', 'worker', 'trojan', 'specialist', 'woman', 'kill', 'bedroom', 'catch', 'veteran', 'blue', 'man', 'lord', 'bad', 'forever', 'state', 'navy', 'family', 'blm', 'trans', 'poet', 'son', 'disney', 'instagram', 'writer', 'gal', 'opinions', 'sign', 'growth', 'music', 'american', 'social', 'good', 'experience', 'kid', 'unite', 'cover', 'filmmaker', 'manager', 'actor', 'box', 'tiktok', 'black', 'marry', 'boy'] 
+
+
+top 50 words in topic 19
+-------------------------
+['comic', 'update', 'ass', 'free', 'happen', 'philadelphia', 'papa', 'unt', 'raw', 'pretty', 'teacher', 'urban', 'bear', 'junkie', 'football', 'advice', 'owner', 'veteran', 'trade', 'thinker', 'hot', 'study', 'word', 'pan', 'currently', 'irl', 'create', 'mean', 'business', 'like', 'crypto', 'random', 'girl', 'self', 'creativity', 'yoga', 'trader', 'chicago', 'spiritual', 'collector', 'father', 'play', 'love', 'certify', 'things', 'cash', 'husband', 'win', 'dad', 'want'] 
+
+
+top 50 words in topic 20
+-------------------------
+['music', 'art', 'business', 'market', 'pussy', 'proud', 'cute', 'design', 'male', 'introvert', 'chocolate', 'poly', 'town', 'baby', 'hospital', 'buff', 'movie', 'advocate', 'owner', 'freedom', 'small', 'free', 'cocktails', 'spirit', 'gift', 'good', 'raise', 'publisher', 'book', 'performer', 'reader', 'cartoon', 'chicago', 'comic', 'bisexual', 'fan', 'drag', 'photographer', 'politics', 'work', 'sport', 'wrestle', 'easy', 'sign', 'marry', 'bad', 'great', 'personal', 'lover', 'guy'] 
+
+
+top 50 words in topic 21
+-------------------------
+['smart', 'biden', 'publish', 'author', 'california', 'board', 'university', 'psn', 'profit', 'student', 'tech', 'spirit', 'christian', 'free', 'amaze', 'health', 'entrepreneur', 'ceo', 'market', 'maker', 'media', 'figure', 'impact', 'influencer', 'nft', 'crypto', 'gemini', 'things', 'blm', 'texas', 'time', 'discord', 'fun', 'dog', 'like', 'dallas', 'fall', 'double', 'twitch', 'art', 'politics', 'news', 'xxx', 'bisexual', 'agency', 'content', 'nigga', 'writer', 'girl', 'love'] 
+
+
+top 50 words in topic 22
+-------------------------
+['big', 'dreamer', 'american', 'ninja', 'web', 'work', 'friend', 'teacher', 'pop', 'good', 'chef', 'culture', 'painter', 'beer', 'create', 'double', 'town', 'family', 'impact', 'university', 'washington', 'home', 'digital', 'learn', 'major', 'connect', 'media', 'network', 'public', 'friends', 'lover', 'artist', 'people', 'gamer', 'bean', 'account', 'nature', 'proud', 'nerd', 'let', 'art', 'design', 'relations', 'sport', 'foodie', 'photographer', 'music', 'city', 'peace', 'love'] 
+
+
+top 50 words in topic 23
+-------------------------
+['everyday', 'better', 'sexual', 'person', 'money', 'club', 'kid', 'coach', 'best', 'hop', 'travel', 'base', 'teacher', 'husband', 'singer', 'movies', 'liberal', 'traveler', 'sense', 'lover', 'cute', 'television', 'west', 'jesus', 'city', 'sport', 'tweet', 'politics', 'lot', 'pastor', 'man', 'faith', 'work', 'follow', 'mess', 'libra', 'aspire', 'coast', 'reality', 'queen', 'retire', 'midwest', 'tech', 'women', 'pay', 'volunteer', 'cancer', 'virgo', 'people', 'love'] 
+
+
+top 50 words in topic 24
+-------------------------
+['pro', 'fighter', 'evil', 'friends', 'team', 'base', 'music', 'grammy', 'woman', 'right', 'cause', 'moon', 'mess', 'photographer', 'consultant', 'bad', 'design', 'cars', 'partner', 'web', 'agent', 'project', 'blm', 'president', 'media', 'past', 'club', 'manager', 'blue', 'dog', 'health', 'jazz', 'sense', 'entrepreneur', 'faith', 'deep', 'strong', 'life', 'audio', 'lol', 'art', 'free', 'mixer', 'love', 'radio', 'nyc', 'local', 'amateur', 'engineer', 'save'] 
+
+
+top 50 words in topic 25
+-------------------------
+['cashapp', 'television', 'want', 'think', 'blogger', 'opinion', 'son', 'original', 'actor', 'brother', 'piece', 'nfts', 'collect', 'clean', 'street', 'nyc', 'cook', 'children', 'proud', 'mom', 'grow', 'health', 'creative', 'husband', 'father', 'art', 'people', 'collector', 'geek', 'design', 'real', 'work', 'pop', 'rule', 'license', 'rock', 'horror', 'author', 'dad', 'maker', 'favorite', 'photographer', 'dog', 'fanatic', 'radio', 'welcome', 'visual', 'love', 'movies', 'artist'] 
+
+
+top 50 words in topic 26
+-------------------------
+['advocate', 'trump', 'cowboys', 'probably', 'tweeter', 'concert', 'personality', 'journalist', 'inquiries', 'twitter', 'book', 'songwriter', 'bear', 'shark', 'opinions', 'sport', 'media', 'plant', 'check', 'central', 'talent', 'metaverse', 'ceo', 'break', 'influencer', 'help', 'nft', 'veteran', 'crypto', 'market', 'real', 'coach', 'personal', 'videos', 'hockey', 'guess', 'house', 'support', 'instagram', 'lord', 'army', 'spur', 'east', 'michael', 'south', 'athlete', 'creator', 'news', 'jesus', 'author'] 
+
+
+top 50 words in topic 27
+-------------------------
+['information', 'random', 'cocktails', 'property', 'journalist', 'geek', 'queen', 'advisor', 'communications', 'right', 'professionals', 'bisexual', 'win', 'emmy', 'estate', 'exec', 'florida', 'help', 'writer', 'great', 'peace', 'favorite', 'book', 'fighter', 'money', 'voice', 'cancer', 'taste', 'daily', 'nerd', 'real', 'twitch', 'fan', 'political', 'alumna', 'woman', 'lot', 'senior', 'board', 'teach', 'collector', 'son', 'place', 'music', 'super', 'person', 'stream', 'new', 'love', 'things'] 
+
+
+top 50 words in topic 28
+-------------------------
+['world', 'things', 'candidate', 'district', 'nature', 'houston', 'south', 'future', 'cult', 'season', 'therapy', 'leader', 'dude', 'stage', 'bad', 'comedy', 'grammy', 'creative', 'designer', 'style', 'write', 'stuff', 'include', 'artist', 'inspire', 'oakland', 'latino', 'photos', 'defense', 'junkie', 'dog', 'attorney', 'producer', 'travel', 'kentucky', 'florida', 'photography', 'ambassador', 'bear', 'best', 'wife', 'mom', 'new', 'joke', 'animal', 'paint', 'blood', 'lover', 'podcast', 'life'] 
+
+
+top 50 words in topic 29
+-------------------------
+['lakers', 'dodgers', 'currently', 'custom', 'metal', 'red', 'design', 'paint', 'plant', 'self', 'knit', 'wrestle', 'promoter', 'food', 'dallas', 'guitar', 'lose', 'movies', 'street', 'worker', 'nsfw', 'respect', 'partner', 'drag', 'daily', 'artist', 'creator', 'grand', 'book', 'team', 'owner', 'great', 'gamer', 'warzone', 'performer', 'esports', 'enjoy', 'sponsor', 'real', 'affiliate', 'trans', 'twitch', 'train', 'sex', 'coach', 'sport', 'dog', 'matter', 'black', 'live'] 
+
+
+top 50 words in topic 30
+-------------------------
+['food', 'events', 'break', 'funny', 'brother', 'tweet', 'person', 'son', 'want', 'kind', 'license', 'liberal', 'clean', 'positivity', 'pop', 'marry', 'collector', 'friend', 'chef', 'speaker', 'husband', 'alumni', 'pastor', 'bean', 'think', 'sad', 'big', 'book', 'cocktails', 'bartender', 'blogger', 'cat', 'post', 'lion', 'lot', 'christ', 'talk', 'american', 'father', 'league', 'author', 'drink', 'fan', 'social', 'boston', 'worker', 'trump', 'baseball', 'shit', 'best'] 
+
+
+top 50 words in topic 31
+-------------------------
+['dog', 'actor', 'write', 'animal', 'vaxxed', 'video', 'band', 'concert', 'heart', 'tweeter', 'passion', 'young', 'friends', 'family', 'old', 'study', 'liberal', 'favorite', 'sport', 'watch', 'videos', 'play', 'dance', 'singer', 'sing', 'dream', 'stream', 'social', 'life', 'love', 'music', 'game', 'help', 'stick', 'tongue', 'soft', 'tiktok', 'design', 'traffic', 'advocate', 'mom', 'martial', 'cook', 'writer', 'mix', 'people', 'tweet', 'arts', 'youtube', 'like'] 
+
+
+top 50 words in topic 32
+-------------------------
+['development', 'free', 'air', 'bio', 'model', 'buy', 'code', 'money', 'amaze', 'pay', 'cause', 'meme', 'everyday', 'angeles', 'professor', 'project', 'art', 'sponsor', 'production', 'concert', 'story', 'merch', 'writer', 'connect', 'guild', 'friends', 'value', 'youtuber', 'programmer', 'theme', 'video', 'founder', 'media', 'artist', 'war', 'community', 'twitch', 'ravenclaw', 'affiliate', 'travel', 'begin', 'family', 'traveler', 'game', 'kind', 'relations', 'new', 'like', 'best', 'manager'] 
+
+
+top 50 words in topic 33
+-------------------------
+['philanthropist', 'self', 'designer', 'podcaster', 'track', 'autistic', 'young', 'video', 'book', 'game', 'comic', 'wrestle', 'cool', 'build', 'personal', 'things', 'stand', 'san', 'food', 'francisco', 'wine', 'right', 'change', 'washington', 'president', 'biden', 'walk', 'read', 'time', 'happy', 'retire', 'happily', 'live', 'account', 'detroit', 'old', 'bartender', 'chief', 'family', 'love', 'state', 'endorsement', 'knight', 'buck', 'man', 'weather', 'like', 'watch', 'insta', 'snap'] 
+
+
+top 50 words in topic 34
+-------------------------
+['family', 'creator', 'women', 'wanna', 'cause', 'lot', 'native', 'brand', 'nyc', 'single', 'ambassador', 'lifestyle', 'represent', 'model', 'book', 'animals', 'friend', 'chicago', 'transit', 'board', 'big', 'urban', 'owner', 'train', 'fitness', 'assistant', 'basketball', 'nerd', 'like', 'great', 'sport', 'traveler', 'content', 'hate', 'recruit', 'father', 'tweet', 'coach', 'warriors', 'sagittarius', 'new', 'light', 'bring', 'college', 'coordinator', 'nsfw', 'fear', 'god', 'world', 'man'] 
+
+
+top 50 words in topic 35
+-------------------------
+['gal', 'sport', 'field', 'bar', 'obsess', 'drink', 'world', 'cat', 'ninja', 'sci', 'win', 'sunday', 'nurse', 'gay', 'organizer', 'teacher', 'team', 'activist', 'dude', 'like', 'big', 'break', 'ass', 'school', 'engineer', 'far', 'power', 'people', 'horny', 'guitar', 'guy', 'partner', 'kill', 'game', 'progressive', 'family', 'marry', 'lie', 'fanatic', 'lover', 'politics', 'father', 'artist', 'creator', 'nature', 'disable', 'love', 'rock', 'music', 'fun'] 
+
+
+top 50 words in topic 36
+-------------------------
+['shoot', 'historian', 'previously', 'grow', 'fitness', 'fun', 'aspire', 'cartoon', 'mother', 'strong', 'programmer', 'nfts', 'clean', 'graphics', 'travel', 'media', 'husband', 'include', 'man', 'family', 'vet', 'digital', 'jesus', 'sport', 'christ', 'kid', 'financial', 'opportunities', 'entrepreneur', 'health', 'lord', 'wife', 'save', 'author', 'television', 'quality', 'nft', 'scientist', 'stay', 'sound', 'football', 'beach', 'love', 'photography', 'make', 'like', 'humanity', 'photographer', 'game', 'film'] 
+
+
+top 50 words in topic 37
+-------------------------
+['son', 'medical', 'scientist', 'navigate', 'break', 'guild', 'software', 'industry', 'independent', 'cook', 'professionals', 'humanity', 'gun', 'comic', 'specialize', 'network', 'company', 'lgbtq', 'activist', 'digital', 'thinker', 'spiritual', 'blogger', 'trade', 'mind', 'punk', 'wave', 'grad', 'west', 'jazz', 'new', 'raise', 'black', 'post', 'book', 'mission', 'doctor', 'check', 'atlanta', 'embrace', 'writer', 'metal', 'fan', 'home', 'music', 'horror', 'future', 'available', 'free', 'photography'] 
+
+
+top 50 words in topic 38
+-------------------------
+['mind', 'credit', 'want', 'pay', 'family', 'kid', 'best', 'wife', 'earth', 'figure', 'thoughts', 'horny', 'enthusiast', 'sport', 'fanatic', 'positivity', 'crypto', 'knight', 'sound', 'leader', 'rapper', 'singer', 'easy', 'jazz', 'cat', 'build', 'dad', 'tech', 'artist', 'daily', 'consultant', 'short', 'food', 'think', 'arsenal', 'business', 'learn', 'entrepreneur', 'company', 'single', 'mission', 'award', 'win', 'angeles', 'book', 'phd', 'seattle', 'songwriter', 'engineer', 'producer'] 
+
+
+top 50 words in topic 39
+-------------------------
+['democrat', 'data', 'texas', 'phd', 'trojan', 'usc', 'stand', 'director', 'founder', 'sport', 'stuff', 'nfl', 'past', 'sunday', 'wife', 'teacher', 'school', 'art', 'mother', 'grandmother', 'restaurant', 'cat', 'transplant', 'denver', 'native', 'chicago', 'comedian', 'lgbtq', 'currently', 'actor', 'business', 'artist', 'state', 'award', 'christian', 'red', 'sci', 'employer', 'represent', 'enthusiast', 'dad', 'owner', 'instructor', 'senior', 'advisor', 'video', 'funny', 'ball', 'writer', 'educator'] 
+
+
+top 50 words in topic 40
+-------------------------
+['buy', 'book', 'fox', 'soul', 'travel', 'mental', 'coach', 'aviation', 'media', 'wine', 'code', 'learn', 'taste', 'earth', 'currently', 'web', 'journey', 'post', 'social', 'addict', 'traveler', 'opinions', 'mother', 'variety', 'big', 'joke', 'human', 'hour', 'chef', 'city', 'manager', 'podcast', 'guy', 'girl', 'account', 'cat', 'music', 'author', 'food', 'grow', 'advocate', 'american', 'beer', 'dog', 'grad', 'enthusiast', 'coffee', 'hard', 'student', 'work'] 
+
+
+top 50 words in topic 41
+-------------------------
+['american', 'change', 'grad', 'power', 'freedom', 'performer', 'heart', 'success', 'funny', 'person', 'click', 'gamer', 'angeles', 'story', 'bot', 'young', 'check', 'man', 'lover', 'dad', 'dog', 'veteran', 'student', 'wild', 'outdoors', 'chicago', 'sport', 'reporter', 'proud', 'instructor', 'family', 'cat', 'girl', 'research', 'poet', 'tweet', 'create', 'wake', 'boy', 'human', 'productions', 'blogger', 'women', 'artist', 'obsess', 'new', 'let', 'right', 'build', 'old'] 
+
+
+top 50 words in topic 42
+-------------------------
+['journey', 'metaverse', 'introvert', 'product', 'sneakers', 'pizza', 'regular', 'personal', 'biden', 'liberal', 'musician', 'adventure', 'advocate', 'opinion', 'lgbtq', 'events', 'director', 'tweeter', 'forget', 'modern', 'dice', 'mean', 'roll', 'rule', 'wrestle', 'play', 'retire', 'work', 'win', 'university', 'pro', 'anchor', 'philanthropist', 'ninja', 'counselor', 'web', 'care', 'chef', 'podcast', 'guy', 'new', 'tweet', 'owner', 'winter', 'chill', 'long', 'diego', 'san', 'good', 'time'] 
+
+
+top 50 words in topic 43
+-------------------------
+['emmy', 'phil', 'volunteer', 'ceo', 'professional', 'crazy', 'guild', 'design', 'product', 'chief', 'real', 'traffic', 'retire', 'dad', 'athlete', 'meteorologist', 'field', 'game', 'stay', 'data', 'web', 'latest', 'travel', 'tip', 'cash', 'credit', 'bay', 'media', 'nfts', 'advocate', 'art', 'culture', 'end', 'social', 'crypto', 'american', 'history', 'account', 'expert', 'marathon', 'gift', 'native', 'time', 'black', 'official', 'truth', 'report', 'home', 'monitor', 'founder'] 
+
+
+top 50 words in topic 44
+-------------------------
+['single', 'human', 'scientist', 'coach', 'student', 'thinker', 'water', 'talk', 'man', 'advocate', 'social', 'writer', 'check', 'chicago', 'comedian', 'mental', 'impact', 'trap', 'county', 'lover', 'podcaster', 'podcast', 'daddy', 'health', 'book', 'grad', 'school', 'girl', 'break', 'smile', 'work', 'sex', 'law', 'creator', 'york', 'music', 'marry', 'graphic', 'conservative', 'scene', 'seahawks', 'army', 'mean', 'lose', 'male', 'creative', 'vet', 'teach', 'self', 'teacher'] 
+
+
+top 50 words in topic 45
+-------------------------
+['code', 'dice', 'people', 'ones', 'lot', 'feature', 'connect', 'service', 'professionals', 'self', 'drink', 'water', 'creator', 'post', 'proud', 'family', 'speak', 'mother', 'care', 'vet', 'grandma', 'home', 'beautiful', 'project', 'kid', 'funny', 'power', 'children', 'politics', 'war', 'work', 'art', 'things', 'want', 'enthusiast', 'designer', 'available', 'smile', 'photo', 'democrat', 'mom', 'music', 'master', 'wife', 'money', 'mind', 'inquiries', 'crypto', 'study', 'business'] 
+
+
+top 50 words in topic 46
+-------------------------
+['fight', 'twitch', 'nsfw', 'street', 'welcome', 'storyteller', 'addict', 'team', 'wine', 'walk', 'enthusiast', 'defense', 'football', 'gonna', 'district', 'like', 'shit', 'modern', 'dance', 'historian', 'professor', 'grad', 'event', 'president', 'game', 'actor', 'blogger', 'mom', 'daily', 'productions', 'wife', 'voice', 'visual', 'time', 'live', 'model', 'shark', 'control', 'security', 'vaxxed', 'baseball', 'retire', 'creative', 'owner', 'cinematographer', 'mask', 'king', 'fuck', 'director', 'long'] 
+
+
+top 50 words in topic 47
+-------------------------
+['speak', 'die', 'young', 'metal', 'comic', 'singer', 'announcer', 'book', 'model', 'inquiries', 'earth', 'actor', 'god', 'creativity', 'major', 'organizer', 'field', 'tweet', 'profit', 'public', 'specialize', 'professional', 'estate', 'photographer', 'event', 'partner', 'regular', 'run', 'person', 'school', 'president', 'american', 'husband', 'podcast', 'old', 'owner', 'reader', 'culture', 'pro', 'mental', 'baseball', 'shoot', 'real', 'gift', 'health', 'boston', 'media', 'guitar', 'player', 'kid'] 
+
+
+top 50 words in topic 48
+-------------------------
+['live', 'love', 'creator', 'bless', 'ones', 'speak', 'trader', 'specialist', 'event', 'boys', 'gay', 'fox', 'like', 'dream', 'click', 'respond', 'onlyfans', 'girl', 'real', 'account', 'brother', 'favorite', 'tour', 'events', 'stream', 'south', 'seattle', 'data', 'world', 'company', 'base', 'digital', 'build', 'angeles', 'producer', 'energy', 'story', 'sad', 'success', 'writer', 'podcast', 'club', 'help', 'california', 'old', 'previously', 'forever', 'lead', 'party', 'southern'] 
+
+
+top 50 words in topic 49
+-------------------------
+['nfl', 'basketball', 'nba', 'teacher', 'single', 'read', 'atlanta', 'twitter', 'vaxxed', 'tweet', 'home', 'nfts', 'connoisseur', 'consultant', 'good', 'private', 'block', 'click', 'videos', 'original', 'power', 'sweet', 'word', 'care', 'kind', 'coach', 'post', 'bartender', 'broncos', 'public', 'dude', 'model', 'free', 'therapy', 'football', 'wife', 'mom', 'education', 'estate', 'real', 'art', 'sport', 'proud', 'ncaa', 'catch', 'speak', 'big', 'progressive', 'music', 'instagram'] 
+
+
+top 50 words in topic 50
+-------------------------
+['pro', 'collect', 'style', 'bad', 'irl', 'ball', 'icon', 'check', 'technology', 'cinema', 'filmmaker', 'sales', 'manager', 'product', 'actor', 'bitch', 'pussy', 'dick', 'junkie', 'chef', 'movie', 'nsfw', 'traveler', 'network', 'coffee', 'fast', 'happy', 'brother', 'build', 'texas', 'sunday', 'long', 'west', 'industry', 'hour', 'run', 'burn', 'director', 'photographer', 'writer', 'esports', 'girl', 'president', 'like', 'production', 'big', 'music', 'night', 'founder', 'ceo'] 
+
+
+top 50 words in topic 51
+-------------------------
+['truth', 'photographer', 'want', 'private', 'sign', 'die', 'leave', 'forget', 'report', 'emmy', 'win', 'denver', 'fox', 'journalist', 'award', 'short', 'high', 'medical', 'quality', 'county', 'write', 'things', 'obsess', 'player', 'pan', 'poly', 'trans', 'good', 'small', 'designer', 'guy', 'graphic', 'business', 'founder', 'model', 'community', 'brand', 'podcast', 'onlyfans', 'violence', 'care', 'food', 'health', 'profit', 'owner', 'bring', 'nyc', 'earth', 'creator', 'content'] 
+
+
+top 50 words in topic 52
+-------------------------
+['bio', 'company', 'digital', 'tweet', 'navigate', 'personal', 'inspire', 'stan', 'official', 'piece', 'woman', 'long', 'master', 'sweet', 'dad', 'rapper', 'laugh', 'rip', 'lakers', 'retire', 'track', 'favorite', 'today', 'ones', 'anime', 'developer', 'enthusiast', 'design', 'book', 'check', 'specialist', 'black', 'football', 'cat', 'owner', 'help', 'fan', 'writer', 'freak', 'city', 'visit', 'traffic', 'transit', 'daddy', 'update', 'feature', 'website', 'state', 'york', 'new'] 
+
+
+top 50 words in topic 53
+-------------------------
+['cub', 'seahawks', 'education', 'law', 'block', 'lawyer', 'cat', 'opinions', 'expert', 'development', 'native', 'georgia', 'real', 'estate', 'cal', 'nyc', 'widow', 'trap', 'travel', 'marry', 'baby', 'hospital', 'check', 'new', 'political', 'dad', 'podcast', 'actor', 'clean', 'nature', 'tree', 'animals', 'dodgers', 'lakers', 'anime', 'cartoon', 'lover', 'ucla', 'friends', 'father', 'husband', 'navy', 'walk', 'bar', 'hate', 'proud', 'angeles', 'fan', 'love', 'plant'] 
+
+
+top 50 words in topic 54
+-------------------------
+['wanna', 'leave', 'latest', 'help', 'tip', 'news', 'knit', 'husband', 'custom', 'personality', 'care', 'dad', 'proud', 'old', 'lifestyle', 'estate', 'advocate', 'conservative', 'blogger', 'trump', 'support', 'foodie', 'forget', 'label', 'ass', 'oakland', 'event', 'shoot', 'stand', 'film', 'hour', 'special', 'comedian', 'comedy', 'insta', 'music', 'photographer', 'future', 'awesome', 'like', 'amaze', 'record', 'hand', 'independent', 'single', 'real', 'rest', 'friends', 'partner', 'look'] 
+
+
+top 50 words in topic 55
+-------------------------
+['local', 'cool', 'wanna', 'experience', 'currently', 'enjoy', 'play', 'thoughts', 'raw', 'editor', 'wild', 'tongue', 'washington', 'report', 'transit', 'seattle', 'public', 'opinion', 'friends', 'make', 'good', 'best', 'texas', 'town', 'smart', 'small', 'lifestyle', 'entertainment', 'let', 'girl', 'author', 'die', 'community', 'musician', 'watch', 'talk', 'traffic', 'news', 'service', 'music', 'stop', 'unofficial', 'scanner', 'automate', 'post', 'artist', 'ass', 'vegas', 'create', 'fee'] 
+
+
+top 50 words in topic 56
+-------------------------
+['bartender', 'employer', 'sport', 'stan', 'plant', 'junkie', 'trap', 'concert', 'faith', 'angeles', 'model', 'leader', 'brother', 'activist', 'change', 'trans', 'student', 'health', 'public', 'favorite', 'mind', 'people', 'independent', 'texas', 'cool', 'thinker', 'wild', 'software', 'manager', 'tech', 'web', 'unite', 'fan', 'emmy', 'designer', 'respect', 'work', 'future', 'history', 'pastor', 'politics', 'assistant', 'sun', 'executive', 'developer', 'director', 'opinions', 'art', 'currently', 'write'] 
+
+
+top 50 words in topic 57
+-------------------------
+['icon', 'queen', 'season', 'dreamer', 'photo', 'choreographer', 'fitness', 'cook', 'tiktok', 'model', 'mixer', 'sport', 'alumnus', 'candidate', 'cover', 'politics', 'streamer', 'twitch', 'variety', 'tweet', 'male', 'advocate', 'punk', 'win', 'jesus', 'veteran', 'pro', 'cowboys', 'spur', 'war', 'god', 'metal', 'fan', 'big', 'sleep', 'miss', 'far', 'faith', 'record', 'cashapp', 'evil', 'dancer', 'poly', 'fight', 'tattoo', 'stuff', 'affiliate', 'leave', 'better', 'light'] 
+
+
+top 50 words in topic 58
+-------------------------
+['opinions', 'graphics', 'air', 'business', 'senior', 'dream', 'navy', 'bar', 'sales', 'veteran', 'creator', 'tweet', 'technology', 'consultant', 'merch', 'storyteller', 'history', 'single', 'writer', 'dad', 'coffee', 'grad', 'buff', 'basketball', 'dancer', 'lookin', 'mom', 'anti', 'fun', 'beach', 'travel', 'retire', 'bay', 'tik', 'tok', 'politics', 'free', 'game', 'grand', 'disney', 'love', 'trump', 'oregon', 'unmonitored', 'develop', 'office', 'national', 'contact', 'service', 'weather'] 
+
+
+top 50 words in topic 59
+-------------------------
+['biology', 'disable', 'old', 'gamer', 'cashapp', 'subscribe', 'democrat', 'buff', 'queen', 'nerd', 'onlyfans', 'ucla', 'history', 'backup', 'meme', 'connoisseur', 'enthusiast', 'certify', 'party', 'promoter', 'snapchat', 'digital', 'hop', 'publish', 'speaker', 'drink', 'beautiful', 'face', 'vegas', 'matter', 'dance', 'choreographer', 'box', 'club', 'fighter', 'videographer', 'champion', 'love', 'life', 'personal', 'entrepreneur', 'cal', 'business', 'actress', 'retire', 'trainer', 'twitter', 'professional', 'owner', 'writer'] 
+
+##################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+
+top 50 words in topic 0
+-------------------------
+['francisco', 'feel', 'fox', 'field', 'disney', 'state', 'pro', 'public', 'credit', 'major', 'education', 'human', 'regular', 'bot', 'healthcare', 'office', 'organizer', 'photography', 'passion', 'creative', 'designer', 'painter', 'entertainment', 'metaverse', 'founder', 'love', 'writer', 'bring', 'instagram', 'artist', 'design', 'normal', 'philosophy', 'stream', 'irl', 'professional', 'composer', 'help', 'nft', 'stylist', 'pacific', 'hunter', 'block', 'special', 'punk', 'twitter', 'account', 'official', 'politics', 'music'] 
+
+
+top 50 words in topic 1
+-------------------------
+['fear', 'free', 'freedom', 'friend', 'forget', 'communications', 'student', 'anti', 'traveler', 'bartender', 'grad', 'musician', 'media', 'tattoo', 'sing', 'bedroom', 'favorite', 'girl', 'wave', 'market', 'team', 'georgia', 'nfts', 'travel', 'track', 'photo', 'good', 'cat', 'papa', 'journalist', 'gamer', 'navy', 'husband', 'people', 'brooklyn', 'daily', 'reporter', 'leo', 'happen', 'dog', 'dad', 'bay', 'bully', 'young', 'drug', 'blue', 'model', 'francisco', 'san', 'retire'] 
+
+
+top 50 words in topic 2
+-------------------------
+['children', 'kid', 'fanatic', 'streamer', 'fitness', 'horror', 'film', 'conservative', 'game', 'anime', 'train', 'professional', 'aviation', 'women', 'college', 'text', 'information', 'basketball', 'organizer', 'actor', 'athlete', 'comedian', 'bedroom', 'rapper', 'writer', 'artist', 'martial', 'twitch', 'wrestle', 'recruit', 'friend', 'activist', 'cars', 'shop', 'subscribe', 'onlyfans', 'punk', 'metal', 'alumnus', 'enthusiast', 'count', 'graduate', 'question', 'hoe', 'school', 'nerd', 'coach', 'war', 'high', 'star'] 
+
+
+top 50 words in topic 3
+-------------------------
+['let', 'world', 'resident', 'business', 'pro', 'talent', 'work', 'communications', 'media', 'baby', 'social', 'marry', 'market', 'esports', 'help', 'text', 'tattoo', 'culture', 'rip', 'agent', 'book', 'winner', 'latino', 'award', 'label', 'model', 'band', 'nigga', 'dick', 'brother', 'big', 'retire', 'university', 'sport', 'native', 'welcome', 'change', 'twitch', 'fun', 'talk', 'love', 'enjoy', 'lot', 'comedian', 'writer', 'everyday', 'podcaster', 'nurse', 'streamer', 'snapchat'] 
+
+
+top 50 words in topic 4
+-------------------------
+['law', 'beauty', 'read', 'figure', 'happy', 'employer', 'sad', 'represent', 'advisor', 'pansexual', 'custom', 'financial', 'videos', 'club', 'truck', 'army', 'meteorologist', 'cal', 'opinions', 'animals', 'manager', 'media', 'social', 'touch', 'video', 'content', 'creator', 'amateur', 'matter', 'pro', 'movies', 'best', 'bring', 'writer', 'time', 'travel', 'soccer', 'nyc', 'good', 'cash', 'photographer', 'play', 'fashion', 'game', 'old', 'music', 'book', 'market', 'enjoy', 'life'] 
+
+
+top 50 words in topic 5
+-------------------------
+['pro', 'leo', 'houston', 'favorite', 'support', 'science', 'mix', 'anti', 'scorpio', 'lord', 'power', 'kind', 'crazy', 'pay', 'instagram', 'real', 'xbox', 'friends', 'night', 'runner', 'junkie', 'podcaster', 'boy', 'avid', 'die', 'unite', 'beach', 'hard', 'fear', 'art', 'travel', 'self', 'life', 'fan', 'gym', 'fight', 'widow', 'aries', 'leave', 'white', 'spirit', 'marry', 'girl', 'freedom', 'family', 'twitter', 'cat', 'beautiful', 'god', 'love'] 
+
+
+top 50 words in topic 6
+-------------------------
+['lifestyle', 'winner', 'advocate', 'rapper', 'gemini', 'twitter', 'audio', 'publisher', 'tire', 'blogger', 'tattoo', 'emmy', 'tech', 'engineer', 'award', 'content', 'cover', 'dog', 'scorpio', 'southern', 'comic', 'teacher', 'political', 'mom', 'lover', 'manager', 'aspire', 'junkie', 'movie', 'thinker', 'poet', 'music', 'old', 'original', 'vegan', 'musician', 'navy', 'nerd', 'vet', 'taste', 'account', 'writer', 'love', 'alumni', 'heart', 'wrestle', 'fan', 'project', 'soul', 'collector'] 
+
+
+top 50 words in topic 7
+-------------------------
+['friends', 'fuck', 'fun', 'funny', 'francisco', 'financial', 'football', 'film', 'feature', 'fee', 'filmmaker', 'field', 'fight', 'favorite', 'fav', 'feel', 'fear', 'fighter', 'artist', 'past', 'digital', 'support', 'hop', 'arsenal', 'midwest', 'figure', 'leo', 'everyday', 'reality', 'ceo', 'entertainment', 'millionaire', 'snapchat', 'personal', 'market', 'business', 'death', 'goal', 'cause', 'dream', 'future', 'game', 'dad', 'touch', 'public', 'bless', 'rip', 'die', 'pizza', 'follow'] 
+
+
+top 50 words in topic 8
+-------------------------
+['west', 'lot', 'real', 'account', 'good', 'think', 'person', 'snap', 'marathon', 'usc', 'runner', 'engineer', 'trojan', 'florida', 'work', 'talent', 'value', 'healthcare', 'mom', 'enthusiast', 'anime', 'metal', 'hoe', 'horror', 'goth', 'dog', 'plant', 'style', 'family', 'taste', 'life', 'native', 'blood', 'art', 'wild', 'founder', 'entrepreneur', 'dead', 'gang', 'aries', 'twitch', 'affiliate', 'world', 'thoughts', 'play', 'love', 'live', 'hot', 'make', 'bitch'] 
+
+
+top 50 words in topic 9
+-------------------------
+['latest', 'far', 'fashion', 'fighter', 'family', 'fan', 'favorite', 'fav', 'fear', 'feature', 'fee', 'feel', 'field', 'fall', 'fanatic', 'fast', 'happy', 'ass', 'control', 'navigate', 'twitter', 'advice', 'friend', 'care', 'big', 'old', 'father', 'amaze', 'tech', 'art', 'modern', 'travel', 'culture', 'new', 'entrepreneur', 'entertainment', 'cashapp', 'connect', 'daughter', 'photos', 'urban', 'smile', 'wave', 'like', 'nerd', 'learn', 'financial', 'school', 'blm', 'mom'] 
+
+
+top 50 words in topic 10
+-------------------------
+['restaurant', 'atlanta', 'old', 'fitness', 'speaker', 'opinions', 'game', 'college', 'rise', 'baseball', 'death', 'cool', 'player', 'soccer', 'feature', 'collector', 'junkie', 'pacific', 'owner', 'announcer', 'hop', 'athletics', 'change', 'account', 'writer', 'nft', 'sport', 'insta', 'buy', 'click', 'christian', 'award', 'public', 'school', 'university', 'proud', 'book', 'win', 'light', 'entertainment', 'run', 'bio', 'nerd', 'middle', 'tweet', 'creator', 'husband', 'father', 'play', 'photographer'] 
+
+
+top 50 words in topic 11
+-------------------------
+['fanatic', 'father', 'brother', 'chief', 'leader', 'columbia', 'usc', 'medical', 'american', 'politics', 'drag', 'sweet', 'enthusiast', 'night', 'people', 'cat', 'band', 'shark', 'lot', 'warriors', 'boston', 'community', 'digital', 'reporter', 'editor', 'lover', 'proud', 'account', 'marry', 'book', 'great', 'grad', 'xbox', 'chargers', 'click', 'nba', 'kings', 'play', 'girl', 'generation', 'old', 'baseball', 'sport', 'champion', 'breed', 'ucla', 'houston', 'tweet', 'wanna', 'gamer'] 
+
+
+top 50 words in topic 12
+-------------------------
+['certify', 'quality', 'control', 'best', 'grow', 'person', 'class', 'joke', 'like', 'tech', 'stage', 'hand', 'college', 'papa', 'support', 'sweet', 'liberal', 'teach', 'lawyer', 'forever', 'man', 'vote', 'composer', 'word', 'agency', 'business', 'nerd', 'deep', 'instructor', 'professor', 'journalist', 'south', 'speaker', 'book', 'geek', 'state', 'family', 'product', 'columbia', 'shit', 'writer', 'let', 'fight', 'label', 'owner', 'lover', 'random', 'tweet', 'editor', 'california'] 
+
+
+top 50 words in topic 13
+-------------------------
+['feature', 'father', 'fast', 'fav', 'latest', 'favorite', 'fear', 'focus', 'nba', 'security', 'nft', 'community', 'icon', 'illustrator', 'central', 'bean', 'black', 'family', 'meteorologist', 'conservative', 'advice', 'hospital', 'practice', 'aviation', 'seattle', 'big', 'owner', 'band', 'tweet', 'artist', 'avid', 'past', 'discord', 'opinions', 'collector', 'district', 'proud', 'geek', 'designer', 'connecticut', 'respond', 'friend', 'wrestle', 'voice', 'songwriter', 'sport', 'singer', 'actor', 'account', 'fan'] 
+
+
+top 50 words in topic 14
+-------------------------
+['father', 'fav', 'favorite', 'lover', 'owner', 'book', 'lol', 'goofy', 'painter', 'hop', 'nyc', 'team', 'small', 'software', 'vegas', 'hard', 'club', 'baseball', 'security', 'pansexual', 'entrepreneur', 'promoter', 'miami', 'lifestyle', 'actor', 'specialist', 'doctor', 'therapy', 'enthusiast', 'office', 'home', 'alumnus', 'talent', 'smart', 'fanatic', 'funny', 'burn', 'mind', 'grandma', 'illustrator', 'podcast', 'sport', 'universe', 'proud', 'livin', 'texas', 'university', 'bear', 'raise', 'state'] 
+
+
+top 50 words in topic 15
+-------------------------
+['culture', 'travel', 'food', 'wine', 'focus', 'family', 'better', 'researcher', 'advocate', 'make', 'world', 'place', 'tree', 'radio', 'foodie', 'fitness', 'speaker', 'candidate', 'profit', 'diego', 'comedy', 'champion', 'blogger', 'martial', 'trainer', 'artist', 'trans', 'seattle', 'master', 'san', 'home', 'aficionado', 'support', 'bad', 'athletics', 'oakland', 'lover', 'truck', 'specialist', 'stay', 'book', 'activist', 'stage', 'boys', 'music', 'social', 'football', 'feel', 'media', 'founder'] 
+
+
+top 50 words in topic 16
+-------------------------
+['blogger', 'humanist', 'social', 'lead', 'opinion', 'network', 'everyday', 'sport', 'welcome', 'website', 'anime', 'research', 'tree', 'animals', 'blue', 'save', 'vote', 'producer', 'arts', 'grad', 'visual', 'designer', 'resident', 'chicago', 'question', 'marry', 'long', 'help', 'clean', 'free', 'pay', 'want', 'air', 'food', 'water', 'house', 'music', 'founder', 'company', 'content', 'creator', 'culture', 'gun', 'healthcare', 'psn', 'industry', 'life', 'advocate', 'american', 'live'] 
+
+
+top 50 words in topic 17
+-------------------------
+['fuck', 'fighter', 'fight', 'youtuber', 'field', 'fashion', 'fast', 'father', 'fav', 'fear', 'feature', 'fee', 'favorite', 'feel', 'goofy', 'cub', 'cowboys', 'introvert', 'pretty', 'joke', 'major', 'football', 'therapy', 'game', 'anime', 'money', 'sneakers', 'snapchat', 'unite', 'collect', 'count', 'art', 'big', 'tour', 'gonna', 'addict', 'instagram', 'college', 'owner', 'love', 'dream', 'class', 'videographer', 'music', 'history', 'cashapp', 'photographer', 'video', 'read', 'mother'] 
+
+
+top 50 words in topic 18
+-------------------------
+['nerd', 'team', 'san', 'transplant', 'snapchat', 'awesome', 'kentucky', 'worker', 'trojan', 'specialist', 'woman', 'kill', 'bedroom', 'catch', 'veteran', 'blue', 'man', 'lord', 'bad', 'forever', 'state', 'navy', 'family', 'blm', 'trans', 'poet', 'son', 'disney', 'instagram', 'writer', 'gal', 'opinions', 'sign', 'growth', 'music', 'american', 'social', 'good', 'experience', 'kid', 'unite', 'cover', 'filmmaker', 'manager', 'actor', 'box', 'tiktok', 'black', 'marry', 'boy'] 
+
+
+top 50 words in topic 19
+-------------------------
+['comic', 'update', 'ass', 'free', 'happen', 'philadelphia', 'papa', 'unt', 'raw', 'pretty', 'teacher', 'urban', 'bear', 'junkie', 'football', 'advice', 'owner', 'veteran', 'trade', 'thinker', 'hot', 'study', 'word', 'pan', 'currently', 'irl', 'create', 'mean', 'business', 'like', 'crypto', 'random', 'girl', 'self', 'creativity', 'yoga', 'trader', 'chicago', 'spiritual', 'collector', 'father', 'play', 'love', 'certify', 'things', 'cash', 'husband', 'win', 'dad', 'want'] 
+
+
+top 50 words in topic 20
+-------------------------
+['music', 'art', 'business', 'market', 'pussy', 'proud', 'cute', 'design', 'male', 'introvert', 'chocolate', 'poly', 'town', 'baby', 'hospital', 'buff', 'movie', 'advocate', 'owner', 'freedom', 'small', 'free', 'cocktails', 'spirit', 'gift', 'good', 'raise', 'publisher', 'book', 'performer', 'reader', 'cartoon', 'chicago', 'comic', 'bisexual', 'fan', 'drag', 'photographer', 'politics', 'work', 'sport', 'wrestle', 'easy', 'sign', 'marry', 'bad', 'great', 'personal', 'lover', 'guy'] 
+
+
+top 50 words in topic 21
+-------------------------
+['smart', 'biden', 'publish', 'author', 'california', 'board', 'university', 'psn', 'profit', 'student', 'tech', 'spirit', 'christian', 'free', 'amaze', 'health', 'entrepreneur', 'ceo', 'market', 'maker', 'media', 'figure', 'impact', 'influencer', 'nft', 'crypto', 'gemini', 'things', 'blm', 'texas', 'time', 'discord', 'fun', 'dog', 'like', 'dallas', 'fall', 'double', 'twitch', 'art', 'politics', 'news', 'xxx', 'bisexual', 'agency', 'content', 'nigga', 'writer', 'girl', 'love'] 
+
+
+top 50 words in topic 22
+-------------------------
+['big', 'dreamer', 'american', 'ninja', 'web', 'work', 'friend', 'teacher', 'pop', 'good', 'chef', 'culture', 'painter', 'beer', 'create', 'double', 'town', 'family', 'impact', 'university', 'washington', 'home', 'digital', 'learn', 'major', 'connect', 'media', 'network', 'public', 'friends', 'lover', 'artist', 'people', 'gamer', 'bean', 'account', 'nature', 'proud', 'nerd', 'let', 'art', 'design', 'relations', 'sport', 'foodie', 'photographer', 'music', 'city', 'peace', 'love'] 
+
+
+top 50 words in topic 23
+-------------------------
+['everyday', 'better', 'sexual', 'person', 'money', 'club', 'kid', 'coach', 'best', 'hop', 'travel', 'base', 'teacher', 'husband', 'singer', 'movies', 'liberal', 'traveler', 'sense', 'lover', 'cute', 'television', 'west', 'jesus', 'city', 'sport', 'tweet', 'politics', 'lot', 'pastor', 'man', 'faith', 'work', 'follow', 'mess', 'libra', 'aspire', 'coast', 'reality', 'queen', 'retire', 'midwest', 'tech', 'women', 'pay', 'volunteer', 'cancer', 'virgo', 'people', 'love'] 
+
+
+top 50 words in topic 24
+-------------------------
+['pro', 'fighter', 'evil', 'friends', 'team', 'base', 'music', 'grammy', 'woman', 'right', 'cause', 'moon', 'mess', 'photographer', 'consultant', 'bad', 'design', 'cars', 'partner', 'web', 'agent', 'project', 'blm', 'president', 'media', 'past', 'club', 'manager', 'blue', 'dog', 'health', 'jazz', 'sense', 'entrepreneur', 'faith', 'deep', 'strong', 'life', 'audio', 'lol', 'art', 'free', 'mixer', 'love', 'radio', 'nyc', 'local', 'amateur', 'engineer', 'save'] 
+
+
+top 50 words in topic 25
+-------------------------
+['cashapp', 'television', 'want', 'think', 'blogger', 'opinion', 'son', 'original', 'actor', 'brother', 'piece', 'nfts', 'collect', 'clean', 'street', 'nyc', 'cook', 'children', 'proud', 'mom', 'grow', 'health', 'creative', 'husband', 'father', 'art', 'people', 'collector', 'geek', 'design', 'real', 'work', 'pop', 'rule', 'license', 'rock', 'horror', 'author', 'dad', 'maker', 'favorite', 'photographer', 'dog', 'fanatic', 'radio', 'welcome', 'visual', 'love', 'movies', 'artist'] 
+
+
+top 50 words in topic 26
+-------------------------
+['advocate', 'trump', 'cowboys', 'probably', 'tweeter', 'concert', 'personality', 'journalist', 'inquiries', 'twitter', 'book', 'songwriter', 'bear', 'shark', 'opinions', 'sport', 'media', 'plant', 'check', 'central', 'talent', 'metaverse', 'ceo', 'break', 'influencer', 'help', 'nft', 'veteran', 'crypto', 'market', 'real', 'coach', 'personal', 'videos', 'hockey', 'guess', 'house', 'support', 'instagram', 'lord', 'army', 'spur', 'east', 'michael', 'south', 'athlete', 'creator', 'news', 'jesus', 'author'] 
+
+
+top 50 words in topic 27
+-------------------------
+['information', 'random', 'cocktails', 'property', 'journalist', 'geek', 'queen', 'advisor', 'communications', 'right', 'professionals', 'bisexual', 'win', 'emmy', 'estate', 'exec', 'florida', 'help', 'writer', 'great', 'peace', 'favorite', 'book', 'fighter', 'money', 'voice', 'cancer', 'taste', 'daily', 'nerd', 'real', 'twitch', 'fan', 'political', 'alumna', 'woman', 'lot', 'senior', 'board', 'teach', 'collector', 'son', 'place', 'music', 'super', 'person', 'stream', 'new', 'love', 'things'] 
+
+
+top 50 words in topic 28
+-------------------------
+['world', 'things', 'candidate', 'district', 'nature', 'houston', 'south', 'future', 'cult', 'season', 'therapy', 'leader', 'dude', 'stage', 'bad', 'comedy', 'grammy', 'creative', 'designer', 'style', 'write', 'stuff', 'include', 'artist', 'inspire', 'oakland', 'latino', 'photos', 'defense', 'junkie', 'dog', 'attorney', 'producer', 'travel', 'kentucky', 'florida', 'photography', 'ambassador', 'bear', 'best', 'wife', 'mom', 'new', 'joke', 'animal', 'paint', 'blood', 'lover', 'podcast', 'life'] 
+
+
+top 50 words in topic 29
+-------------------------
+['lakers', 'dodgers', 'currently', 'custom', 'metal', 'red', 'design', 'paint', 'plant', 'self', 'knit', 'wrestle', 'promoter', 'food', 'dallas', 'guitar', 'lose', 'movies', 'street', 'worker', 'nsfw', 'respect', 'partner', 'drag', 'daily', 'artist', 'creator', 'grand', 'book', 'team', 'owner', 'great', 'gamer', 'warzone', 'performer', 'esports', 'enjoy', 'sponsor', 'real', 'affiliate', 'trans', 'twitch', 'train', 'sex', 'coach', 'sport', 'dog', 'matter', 'black', 'live'] 
+
+
+top 50 words in topic 30
+-------------------------
+['food', 'events', 'break', 'funny', 'brother', 'tweet', 'person', 'son', 'want', 'kind', 'license', 'liberal', 'clean', 'positivity', 'pop', 'marry', 'collector', 'friend', 'chef', 'speaker', 'husband', 'alumni', 'pastor', 'bean', 'think', 'sad', 'big', 'book', 'cocktails', 'bartender', 'blogger', 'cat', 'post', 'lion', 'lot', 'christ', 'talk', 'american', 'father', 'league', 'author', 'drink', 'fan', 'social', 'boston', 'worker', 'trump', 'baseball', 'shit', 'best'] 
+
+
+top 50 words in topic 31
+-------------------------
+['dog', 'actor', 'write', 'animal', 'vaxxed', 'video', 'band', 'concert', 'heart', 'tweeter', 'passion', 'young', 'friends', 'family', 'old', 'study', 'liberal', 'favorite', 'sport', 'watch', 'videos', 'play', 'dance', 'singer', 'sing', 'dream', 'stream', 'social', 'life', 'love', 'music', 'game', 'help', 'stick', 'tongue', 'soft', 'tiktok', 'design', 'traffic', 'advocate', 'mom', 'martial', 'cook', 'writer', 'mix', 'people', 'tweet', 'arts', 'youtube', 'like'] 
+
+
+top 50 words in topic 32
+-------------------------
+['development', 'free', 'air', 'bio', 'model', 'buy', 'code', 'money', 'amaze', 'pay', 'cause', 'meme', 'everyday', 'angeles', 'professor', 'project', 'art', 'sponsor', 'production', 'concert', 'story', 'merch', 'writer', 'connect', 'guild', 'friends', 'value', 'youtuber', 'programmer', 'theme', 'video', 'founder', 'media', 'artist', 'war', 'community', 'twitch', 'ravenclaw', 'affiliate', 'travel', 'begin', 'family', 'traveler', 'game', 'kind', 'relations', 'new', 'like', 'best', 'manager'] 
+
+
+top 50 words in topic 33
+-------------------------
+['philanthropist', 'self', 'designer', 'podcaster', 'track', 'autistic', 'young', 'video', 'book', 'game', 'comic', 'wrestle', 'cool', 'build', 'personal', 'things', 'stand', 'san', 'food', 'francisco', 'wine', 'right', 'change', 'washington', 'president', 'biden', 'walk', 'read', 'time', 'happy', 'retire', 'happily', 'live', 'account', 'detroit', 'old', 'bartender', 'chief', 'family', 'love', 'state', 'endorsement', 'knight', 'buck', 'man', 'weather', 'like', 'watch', 'insta', 'snap'] 
+
+
+top 50 words in topic 34
+-------------------------
+['family', 'creator', 'women', 'wanna', 'cause', 'lot', 'native', 'brand', 'nyc', 'single', 'ambassador', 'lifestyle', 'represent', 'model', 'book', 'animals', 'friend', 'chicago', 'transit', 'board', 'big', 'urban', 'owner', 'train', 'fitness', 'assistant', 'basketball', 'nerd', 'like', 'great', 'sport', 'traveler', 'content', 'hate', 'recruit', 'father', 'tweet', 'coach', 'warriors', 'sagittarius', 'new', 'light', 'bring', 'college', 'coordinator', 'nsfw', 'fear', 'god', 'world', 'man'] 
+
+
+top 50 words in topic 35
+-------------------------
+['gal', 'sport', 'field', 'bar', 'obsess', 'drink', 'world', 'cat', 'ninja', 'sci', 'win', 'sunday', 'nurse', 'gay', 'organizer', 'teacher', 'team', 'activist', 'dude', 'like', 'big', 'break', 'ass', 'school', 'engineer', 'far', 'power', 'people', 'horny', 'guitar', 'guy', 'partner', 'kill', 'game', 'progressive', 'family', 'marry', 'lie', 'fanatic', 'lover', 'politics', 'father', 'artist', 'creator', 'nature', 'disable', 'love', 'rock', 'music', 'fun'] 
+
+
+top 50 words in topic 36
+-------------------------
+['shoot', 'historian', 'previously', 'grow', 'fitness', 'fun', 'aspire', 'cartoon', 'mother', 'strong', 'programmer', 'nfts', 'clean', 'graphics', 'travel', 'media', 'husband', 'include', 'man', 'family', 'vet', 'digital', 'jesus', 'sport', 'christ', 'kid', 'financial', 'opportunities', 'entrepreneur', 'health', 'lord', 'wife', 'save', 'author', 'television', 'quality', 'nft', 'scientist', 'stay', 'sound', 'football', 'beach', 'love', 'photography', 'make', 'like', 'humanity', 'photographer', 'game', 'film'] 
+
+
+top 50 words in topic 37
+-------------------------
+['son', 'medical', 'scientist', 'navigate', 'break', 'guild', 'software', 'industry', 'independent', 'cook', 'professionals', 'humanity', 'gun', 'comic', 'specialize', 'network', 'company', 'lgbtq', 'activist', 'digital', 'thinker', 'spiritual', 'blogger', 'trade', 'mind', 'punk', 'wave', 'grad', 'west', 'jazz', 'new', 'raise', 'black', 'post', 'book', 'mission', 'doctor', 'check', 'atlanta', 'embrace', 'writer', 'metal', 'fan', 'home', 'music', 'horror', 'future', 'available', 'free', 'photography'] 
+
+
+top 50 words in topic 38
+-------------------------
+['mind', 'credit', 'want', 'pay', 'family', 'kid', 'best', 'wife', 'earth', 'figure', 'thoughts', 'horny', 'enthusiast', 'sport', 'fanatic', 'positivity', 'crypto', 'knight', 'sound', 'leader', 'rapper', 'singer', 'easy', 'jazz', 'cat', 'build', 'dad', 'tech', 'artist', 'daily', 'consultant', 'short', 'food', 'think', 'arsenal', 'business', 'learn', 'entrepreneur', 'company', 'single', 'mission', 'award', 'win', 'angeles', 'book', 'phd', 'seattle', 'songwriter', 'engineer', 'producer'] 
+
+
+top 50 words in topic 39
+-------------------------
+['democrat', 'data', 'texas', 'phd', 'trojan', 'usc', 'stand', 'director', 'founder', 'sport', 'stuff', 'nfl', 'past', 'sunday', 'wife', 'teacher', 'school', 'art', 'mother', 'grandmother', 'restaurant', 'cat', 'transplant', 'denver', 'native', 'chicago', 'comedian', 'lgbtq', 'currently', 'actor', 'business', 'artist', 'state', 'award', 'christian', 'red', 'sci', 'employer', 'represent', 'enthusiast', 'dad', 'owner', 'instructor', 'senior', 'advisor', 'video', 'funny', 'ball', 'writer', 'educator'] 
+
+
+top 50 words in topic 40
+-------------------------
+['buy', 'book', 'fox', 'soul', 'travel', 'mental', 'coach', 'aviation', 'media', 'wine', 'code', 'learn', 'taste', 'earth', 'currently', 'web', 'journey', 'post', 'social', 'addict', 'traveler', 'opinions', 'mother', 'variety', 'big', 'joke', 'human', 'hour', 'chef', 'city', 'manager', 'podcast', 'guy', 'girl', 'account', 'cat', 'music', 'author', 'food', 'grow', 'advocate', 'american', 'beer', 'dog', 'grad', 'enthusiast', 'coffee', 'hard', 'student', 'work'] 
+
+
+top 50 words in topic 41
+-------------------------
+['american', 'change', 'grad', 'power', 'freedom', 'performer', 'heart', 'success', 'funny', 'person', 'click', 'gamer', 'angeles', 'story', 'bot', 'young', 'check', 'man', 'lover', 'dad', 'dog', 'veteran', 'student', 'wild', 'outdoors', 'chicago', 'sport', 'reporter', 'proud', 'instructor', 'family', 'cat', 'girl', 'research', 'poet', 'tweet', 'create', 'wake', 'boy', 'human', 'productions', 'blogger', 'women', 'artist', 'obsess', 'new', 'let', 'right', 'build', 'old'] 
+
+
+top 50 words in topic 42
+-------------------------
+['journey', 'metaverse', 'introvert', 'product', 'sneakers', 'pizza', 'regular', 'personal', 'biden', 'liberal', 'musician', 'adventure', 'advocate', 'opinion', 'lgbtq', 'events', 'director', 'tweeter', 'forget', 'modern', 'dice', 'mean', 'roll', 'rule', 'wrestle', 'play', 'retire', 'work', 'win', 'university', 'pro', 'anchor', 'philanthropist', 'ninja', 'counselor', 'web', 'care', 'chef', 'podcast', 'guy', 'new', 'tweet', 'owner', 'winter', 'chill', 'long', 'diego', 'san', 'good', 'time'] 
+
+
+top 50 words in topic 43
+-------------------------
+['emmy', 'phil', 'volunteer', 'ceo', 'professional', 'crazy', 'guild', 'design', 'product', 'chief', 'real', 'traffic', 'retire', 'dad', 'athlete', 'meteorologist', 'field', 'game', 'stay', 'data', 'web', 'latest', 'travel', 'tip', 'cash', 'credit', 'bay', 'media', 'nfts', 'advocate', 'art', 'culture', 'end', 'social', 'crypto', 'american', 'history', 'account', 'expert', 'marathon', 'gift', 'native', 'time', 'black', 'official', 'truth', 'report', 'home', 'monitor', 'founder'] 
+
+
+top 50 words in topic 44
+-------------------------
+['single', 'human', 'scientist', 'coach', 'student', 'thinker', 'water', 'talk', 'man', 'advocate', 'social', 'writer', 'check', 'chicago', 'comedian', 'mental', 'impact', 'trap', 'county', 'lover', 'podcaster', 'podcast', 'daddy', 'health', 'book', 'grad', 'school', 'girl', 'break', 'smile', 'work', 'sex', 'law', 'creator', 'york', 'music', 'marry', 'graphic', 'conservative', 'scene', 'seahawks', 'army', 'mean', 'lose', 'male', 'creative', 'vet', 'teach', 'self', 'teacher'] 
+
+
+top 50 words in topic 45
+-------------------------
+['code', 'dice', 'people', 'ones', 'lot', 'feature', 'connect', 'service', 'professionals', 'self', 'drink', 'water', 'creator', 'post', 'proud', 'family', 'speak', 'mother', 'care', 'vet', 'grandma', 'home', 'beautiful', 'project', 'kid', 'funny', 'power', 'children', 'politics', 'war', 'work', 'art', 'things', 'want', 'enthusiast', 'designer', 'available', 'smile', 'photo', 'democrat', 'mom', 'music', 'master', 'wife', 'money', 'mind', 'inquiries', 'crypto', 'study', 'business'] 
+
+
+top 50 words in topic 46
+-------------------------
+['fight', 'twitch', 'nsfw', 'street', 'welcome', 'storyteller', 'addict', 'team', 'wine', 'walk', 'enthusiast', 'defense', 'football', 'gonna', 'district', 'like', 'shit', 'modern', 'dance', 'historian', 'professor', 'grad', 'event', 'president', 'game', 'actor', 'blogger', 'mom', 'daily', 'productions', 'wife', 'voice', 'visual', 'time', 'live', 'model', 'shark', 'control', 'security', 'vaxxed', 'baseball', 'retire', 'creative', 'owner', 'cinematographer', 'mask', 'king', 'fuck', 'director', 'long'] 
+
+
+top 50 words in topic 47
+-------------------------
+['speak', 'die', 'young', 'metal', 'comic', 'singer', 'announcer', 'book', 'model', 'inquiries', 'earth', 'actor', 'god', 'creativity', 'major', 'organizer', 'field', 'tweet', 'profit', 'public', 'specialize', 'professional', 'estate', 'photographer', 'event', 'partner', 'regular', 'run', 'person', 'school', 'president', 'american', 'husband', 'podcast', 'old', 'owner', 'reader', 'culture', 'pro', 'mental', 'baseball', 'shoot', 'real', 'gift', 'health', 'boston', 'media', 'guitar', 'player', 'kid'] 
+
+
+top 50 words in topic 48
+-------------------------
+['live', 'love', 'creator', 'bless', 'ones', 'speak', 'trader', 'specialist', 'event', 'boys', 'gay', 'fox', 'like', 'dream', 'click', 'respond', 'onlyfans', 'girl', 'real', 'account', 'brother', 'favorite', 'tour', 'events', 'stream', 'south', 'seattle', 'data', 'world', 'company', 'base', 'digital', 'build', 'angeles', 'producer', 'energy', 'story', 'sad', 'success', 'writer', 'podcast', 'club', 'help', 'california', 'old', 'previously', 'forever', 'lead', 'party', 'southern'] 
+
+
+top 50 words in topic 49
+-------------------------
+['nfl', 'basketball', 'nba', 'teacher', 'single', 'read', 'atlanta', 'twitter', 'vaxxed', 'tweet', 'home', 'nfts', 'connoisseur', 'consultant', 'good', 'private', 'block', 'click', 'videos', 'original', 'power', 'sweet', 'word', 'care', 'kind', 'coach', 'post', 'bartender', 'broncos', 'public', 'dude', 'model', 'free', 'therapy', 'football', 'wife', 'mom', 'education', 'estate', 'real', 'art', 'sport', 'proud', 'ncaa', 'catch', 'speak', 'big', 'progressive', 'music', 'instagram'] 
+
+
+top 50 words in topic 50
+-------------------------
+['pro', 'collect', 'style', 'bad', 'irl', 'ball', 'icon', 'check', 'technology', 'cinema', 'filmmaker', 'sales', 'manager', 'product', 'actor', 'bitch', 'pussy', 'dick', 'junkie', 'chef', 'movie', 'nsfw', 'traveler', 'network', 'coffee', 'fast', 'happy', 'brother', 'build', 'texas', 'sunday', 'long', 'west', 'industry', 'hour', 'run', 'burn', 'director', 'photographer', 'writer', 'esports', 'girl', 'president', 'like', 'production', 'big', 'music', 'night', 'founder', 'ceo'] 
+
+
+top 50 words in topic 51
+-------------------------
+['truth', 'photographer', 'want', 'private', 'sign', 'die', 'leave', 'forget', 'report', 'emmy', 'win', 'denver', 'fox', 'journalist', 'award', 'short', 'high', 'medical', 'quality', 'county', 'write', 'things', 'obsess', 'player', 'pan', 'poly', 'trans', 'good', 'small', 'designer', 'guy', 'graphic', 'business', 'founder', 'model', 'community', 'brand', 'podcast', 'onlyfans', 'violence', 'care', 'food', 'health', 'profit', 'owner', 'bring', 'nyc', 'earth', 'creator', 'content'] 
+
+
+top 50 words in topic 52
+-------------------------
+['bio', 'company', 'digital', 'tweet', 'navigate', 'personal', 'inspire', 'stan', 'official', 'piece', 'woman', 'long', 'master', 'sweet', 'dad', 'rapper', 'laugh', 'rip', 'lakers', 'retire', 'track', 'favorite', 'today', 'ones', 'anime', 'developer', 'enthusiast', 'design', 'book', 'check', 'specialist', 'black', 'football', 'cat', 'owner', 'help', 'fan', 'writer', 'freak', 'city', 'visit', 'traffic', 'transit', 'daddy', 'update', 'feature', 'website', 'state', 'york', 'new'] 
+
+
+top 50 words in topic 53
+-------------------------
+['cub', 'seahawks', 'education', 'law', 'block', 'lawyer', 'cat', 'opinions', 'expert', 'development', 'native', 'georgia', 'real', 'estate', 'cal', 'nyc', 'widow', 'trap', 'travel', 'marry', 'baby', 'hospital', 'check', 'new', 'political', 'dad', 'podcast', 'actor', 'clean', 'nature', 'tree', 'animals', 'dodgers', 'lakers', 'anime', 'cartoon', 'lover', 'ucla', 'friends', 'father', 'husband', 'navy', 'walk', 'bar', 'hate', 'proud', 'angeles', 'fan', 'love', 'plant'] 
+
+
+top 50 words in topic 54
+-------------------------
+['wanna', 'leave', 'latest', 'help', 'tip', 'news', 'knit', 'husband', 'custom', 'personality', 'care', 'dad', 'proud', 'old', 'lifestyle', 'estate', 'advocate', 'conservative', 'blogger', 'trump', 'support', 'foodie', 'forget', 'label', 'ass', 'oakland', 'event', 'shoot', 'stand', 'film', 'hour', 'special', 'comedian', 'comedy', 'insta', 'music', 'photographer', 'future', 'awesome', 'like', 'amaze', 'record', 'hand', 'independent', 'single', 'real', 'rest', 'friends', 'partner', 'look'] 
+
+
+top 50 words in topic 55
+-------------------------
+['local', 'cool', 'wanna', 'experience', 'currently', 'enjoy', 'play', 'thoughts', 'raw', 'editor', 'wild', 'tongue', 'washington', 'report', 'transit', 'seattle', 'public', 'opinion', 'friends', 'make', 'good', 'best', 'texas', 'town', 'smart', 'small', 'lifestyle', 'entertainment', 'let', 'girl', 'author', 'die', 'community', 'musician', 'watch', 'talk', 'traffic', 'news', 'service', 'music', 'stop', 'unofficial', 'scanner', 'automate', 'post', 'artist', 'ass', 'vegas', 'create', 'fee'] 
+
+
+top 50 words in topic 56
+-------------------------
+['bartender', 'employer', 'sport', 'stan', 'plant', 'junkie', 'trap', 'concert', 'faith', 'angeles', 'model', 'leader', 'brother', 'activist', 'change', 'trans', 'student', 'health', 'public', 'favorite', 'mind', 'people', 'independent', 'texas', 'cool', 'thinker', 'wild', 'software', 'manager', 'tech', 'web', 'unite', 'fan', 'emmy', 'designer', 'respect', 'work', 'future', 'history', 'pastor', 'politics', 'assistant', 'sun', 'executive', 'developer', 'director', 'opinions', 'art', 'currently', 'write'] 
+
+
+top 50 words in topic 57
+-------------------------
+['icon', 'queen', 'season', 'dreamer', 'photo', 'choreographer', 'fitness', 'cook', 'tiktok', 'model', 'mixer', 'sport', 'alumnus', 'candidate', 'cover', 'politics', 'streamer', 'twitch', 'variety', 'tweet', 'male', 'advocate', 'punk', 'win', 'jesus', 'veteran', 'pro', 'cowboys', 'spur', 'war', 'god', 'metal', 'fan', 'big', 'sleep', 'miss', 'far', 'faith', 'record', 'cashapp', 'evil', 'dancer', 'poly', 'fight', 'tattoo', 'stuff', 'affiliate', 'leave', 'better', 'light'] 
+
+
+top 50 words in topic 58
+-------------------------
+['opinions', 'graphics', 'air', 'business', 'senior', 'dream', 'navy', 'bar', 'sales', 'veteran', 'creator', 'tweet', 'technology', 'consultant', 'merch', 'storyteller', 'history', 'single', 'writer', 'dad', 'coffee', 'grad', 'buff', 'basketball', 'dancer', 'lookin', 'mom', 'anti', 'fun', 'beach', 'travel', 'retire', 'bay', 'tik', 'tok', 'politics', 'free', 'game', 'grand', 'disney', 'love', 'trump', 'oregon', 'unmonitored', 'develop', 'office', 'national', 'contact', 'service', 'weather'] 
+
+
+top 50 words in topic 59
+-------------------------
+['biology', 'disable', 'old', 'gamer', 'cashapp', 'subscribe', 'democrat', 'buff', 'queen', 'nerd', 'onlyfans', 'ucla', 'history', 'backup', 'meme', 'connoisseur', 'enthusiast', 'certify', 'party', 'promoter', 'snapchat', 'digital', 'hop', 'publish', 'speaker', 'drink', 'beautiful', 'face', 'vegas', 'matter', 'dance', 'choreographer', 'box', 'club', 'fighter', 'videographer', 'champion', 'love', 'life', 'personal', 'entrepreneur', 'cal', 'business', 'actress', 'retire', 'trainer', 'twitter', 'professional', 'owner', 'writer'] 
+
+
+top 50 words in topic 0
+-------------------------
+['francisco', 'feel', 'fox', 'field', 'disney', 'state', 'pro', 'public', 'credit', 'major', 'education', 'human', 'regular', 'bot', 'healthcare', 'office', 'organizer', 'photography', 'passion', 'creative', 'designer', 'painter', 'entertainment', 'metaverse', 'founder', 'love', 'writer', 'bring', 'instagram', 'artist', 'design', 'normal', 'philosophy', 'stream', 'irl', 'professional', 'composer', 'help', 'nft', 'stylist', 'pacific', 'hunter', 'block', 'special', 'punk', 'twitter', 'account', 'official', 'politics', 'music'] 
+
+
+top 50 words in topic 1
+-------------------------
+['fear', 'free', 'freedom', 'friend', 'forget', 'communications', 'student', 'anti', 'traveler', 'bartender', 'grad', 'musician', 'media', 'tattoo', 'sing', 'bedroom', 'favorite', 'girl', 'wave', 'market', 'team', 'georgia', 'nfts', 'travel', 'track', 'photo', 'good', 'cat', 'papa', 'journalist', 'gamer', 'navy', 'husband', 'people', 'brooklyn', 'daily', 'reporter', 'leo', 'happen', 'dog', 'dad', 'bay', 'bully', 'young', 'drug', 'blue', 'model', 'francisco', 'san', 'retire'] 
+
+
+top 50 words in topic 2
+-------------------------
+['children', 'kid', 'fanatic', 'streamer', 'fitness', 'horror', 'film', 'conservative', 'game', 'anime', 'train', 'professional', 'aviation', 'women', 'college', 'text', 'information', 'basketball', 'organizer', 'actor', 'athlete', 'comedian', 'bedroom', 'rapper', 'writer', 'artist', 'martial', 'twitch', 'wrestle', 'recruit', 'friend', 'activist', 'cars', 'shop', 'subscribe', 'onlyfans', 'punk', 'metal', 'alumnus', 'enthusiast', 'count', 'graduate', 'question', 'hoe', 'school', 'nerd', 'coach', 'war', 'high', 'star'] 
+
+
+top 50 words in topic 3
+-------------------------
+['let', 'world', 'resident', 'business', 'pro', 'talent', 'work', 'communications', 'media', 'baby', 'social', 'marry', 'market', 'esports', 'help', 'text', 'tattoo', 'culture', 'rip', 'agent', 'book', 'winner', 'latino', 'award', 'label', 'model', 'band', 'nigga', 'dick', 'brother', 'big', 'retire', 'university', 'sport', 'native', 'welcome', 'change', 'twitch', 'fun', 'talk', 'love', 'enjoy', 'lot', 'comedian', 'writer', 'everyday', 'podcaster', 'nurse', 'streamer', 'snapchat'] 
+
+
+top 50 words in topic 4
+-------------------------
+['law', 'beauty', 'read', 'figure', 'happy', 'employer', 'sad', 'represent', 'advisor', 'pansexual', 'custom', 'financial', 'videos', 'club', 'truck', 'army', 'meteorologist', 'cal', 'opinions', 'animals', 'manager', 'media', 'social', 'touch', 'video', 'content', 'creator', 'amateur', 'matter', 'pro', 'movies', 'best', 'bring', 'writer', 'time', 'travel', 'soccer', 'nyc', 'good', 'cash', 'photographer', 'play', 'fashion', 'game', 'old', 'music', 'book', 'market', 'enjoy', 'life'] 
+
+
+top 50 words in topic 5
+-------------------------
+['pro', 'leo', 'houston', 'favorite', 'support', 'science', 'mix', 'anti', 'scorpio', 'lord', 'power', 'kind', 'crazy', 'pay', 'instagram', 'real', 'xbox', 'friends', 'night', 'runner', 'junkie', 'podcaster', 'boy', 'avid', 'die', 'unite', 'beach', 'hard', 'fear', 'art', 'travel', 'self', 'life', 'fan', 'gym', 'fight', 'widow', 'aries', 'leave', 'white', 'spirit', 'marry', 'girl', 'freedom', 'family', 'twitter', 'cat', 'beautiful', 'god', 'love'] 
+
+
+top 50 words in topic 6
+-------------------------
+['lifestyle', 'winner', 'advocate', 'rapper', 'gemini', 'twitter', 'audio', 'publisher', 'tire', 'blogger', 'tattoo', 'emmy', 'tech', 'engineer', 'award', 'content', 'cover', 'dog', 'scorpio', 'southern', 'comic', 'teacher', 'political', 'mom', 'lover', 'manager', 'aspire', 'junkie', 'movie', 'thinker', 'poet', 'music', 'old', 'original', 'vegan', 'musician', 'navy', 'nerd', 'vet', 'taste', 'account', 'writer', 'love', 'alumni', 'heart', 'wrestle', 'fan', 'project', 'soul', 'collector'] 
+
+
+top 50 words in topic 7
+-------------------------
+['friends', 'fuck', 'fun', 'funny', 'francisco', 'financial', 'football', 'film', 'feature', 'fee', 'filmmaker', 'field', 'fight', 'favorite', 'fav', 'feel', 'fear', 'fighter', 'artist', 'past', 'digital', 'support', 'hop', 'arsenal', 'midwest', 'figure', 'leo', 'everyday', 'reality', 'ceo', 'entertainment', 'millionaire', 'snapchat', 'personal', 'market', 'business', 'death', 'goal', 'cause', 'dream', 'future', 'game', 'dad', 'touch', 'public', 'bless', 'rip', 'die', 'pizza', 'follow'] 
+
+
+top 50 words in topic 8
+-------------------------
+['west', 'lot', 'real', 'account', 'good', 'think', 'person', 'snap', 'marathon', 'usc', 'runner', 'engineer', 'trojan', 'florida', 'work', 'talent', 'value', 'healthcare', 'mom', 'enthusiast', 'anime', 'metal', 'hoe', 'horror', 'goth', 'dog', 'plant', 'style', 'family', 'taste', 'life', 'native', 'blood', 'art', 'wild', 'founder', 'entrepreneur', 'dead', 'gang', 'aries', 'twitch', 'affiliate', 'world', 'thoughts', 'play', 'love', 'live', 'hot', 'make', 'bitch'] 
+
+
+top 50 words in topic 9
+-------------------------
+['latest', 'far', 'fashion', 'fighter', 'family', 'fan', 'favorite', 'fav', 'fear', 'feature', 'fee', 'feel', 'field', 'fall', 'fanatic', 'fast', 'happy', 'ass', 'control', 'navigate', 'twitter', 'advice', 'friend', 'care', 'big', 'old', 'father', 'amaze', 'tech', 'art', 'modern', 'travel', 'culture', 'new', 'entrepreneur', 'entertainment', 'cashapp', 'connect', 'daughter', 'photos', 'urban', 'smile', 'wave', 'like', 'nerd', 'learn', 'financial', 'school', 'blm', 'mom'] 
+
+
+top 50 words in topic 10
+-------------------------
+['restaurant', 'atlanta', 'old', 'fitness', 'speaker', 'opinions', 'game', 'college', 'rise', 'baseball', 'death', 'cool', 'player', 'soccer', 'feature', 'collector', 'junkie', 'pacific', 'owner', 'announcer', 'hop', 'athletics', 'change', 'account', 'writer', 'nft', 'sport', 'insta', 'buy', 'click', 'christian', 'award', 'public', 'school', 'university', 'proud', 'book', 'win', 'light', 'entertainment', 'run', 'bio', 'nerd', 'middle', 'tweet', 'creator', 'husband', 'father', 'play', 'photographer'] 
+
+
+top 50 words in topic 11
+-------------------------
+['fanatic', 'father', 'brother', 'chief', 'leader', 'columbia', 'usc', 'medical', 'american', 'politics', 'drag', 'sweet', 'enthusiast', 'night', 'people', 'cat', 'band', 'shark', 'lot', 'warriors', 'boston', 'community', 'digital', 'reporter', 'editor', 'lover', 'proud', 'account', 'marry', 'book', 'great', 'grad', 'xbox', 'chargers', 'click', 'nba', 'kings', 'play', 'girl', 'generation', 'old', 'baseball', 'sport', 'champion', 'breed', 'ucla', 'houston', 'tweet', 'wanna', 'gamer'] 
+
+
+top 50 words in topic 12
+-------------------------
+['certify', 'quality', 'control', 'best', 'grow', 'person', 'class', 'joke', 'like', 'tech', 'stage', 'hand', 'college', 'papa', 'support', 'sweet', 'liberal', 'teach', 'lawyer', 'forever', 'man', 'vote', 'composer', 'word', 'agency', 'business', 'nerd', 'deep', 'instructor', 'professor', 'journalist', 'south', 'speaker', 'book', 'geek', 'state', 'family', 'product', 'columbia', 'shit', 'writer', 'let', 'fight', 'label', 'owner', 'lover', 'random', 'tweet', 'editor', 'california'] 
+
+
+top 50 words in topic 13
+-------------------------
+['feature', 'father', 'fast', 'fav', 'latest', 'favorite', 'fear', 'focus', 'nba', 'security', 'nft', 'community', 'icon', 'illustrator', 'central', 'bean', 'black', 'family', 'meteorologist', 'conservative', 'advice', 'hospital', 'practice', 'aviation', 'seattle', 'big', 'owner', 'band', 'tweet', 'artist', 'avid', 'past', 'discord', 'opinions', 'collector', 'district', 'proud', 'geek', 'designer', 'connecticut', 'respond', 'friend', 'wrestle', 'voice', 'songwriter', 'sport', 'singer', 'actor', 'account', 'fan'] 
+
+
+top 50 words in topic 14
+-------------------------
+['father', 'fav', 'favorite', 'lover', 'owner', 'book', 'lol', 'goofy', 'painter', 'hop', 'nyc', 'team', 'small', 'software', 'vegas', 'hard', 'club', 'baseball', 'security', 'pansexual', 'entrepreneur', 'promoter', 'miami', 'lifestyle', 'actor', 'specialist', 'doctor', 'therapy', 'enthusiast', 'office', 'home', 'alumnus', 'talent', 'smart', 'fanatic', 'funny', 'burn', 'mind', 'grandma', 'illustrator', 'podcast', 'sport', 'universe', 'proud', 'livin', 'texas', 'university', 'bear', 'raise', 'state'] 
+
+
+top 50 words in topic 15
+-------------------------
+['culture', 'travel', 'food', 'wine', 'focus', 'family', 'better', 'researcher', 'advocate', 'make', 'world', 'place', 'tree', 'radio', 'foodie', 'fitness', 'speaker', 'candidate', 'profit', 'diego', 'comedy', 'champion', 'blogger', 'martial', 'trainer', 'artist', 'trans', 'seattle', 'master', 'san', 'home', 'aficionado', 'support', 'bad', 'athletics', 'oakland', 'lover', 'truck', 'specialist', 'stay', 'book', 'activist', 'stage', 'boys', 'music', 'social', 'football', 'feel', 'media', 'founder'] 
+
+
+top 50 words in topic 16
+-------------------------
+['blogger', 'humanist', 'social', 'lead', 'opinion', 'network', 'everyday', 'sport', 'welcome', 'website', 'anime', 'research', 'tree', 'animals', 'blue', 'save', 'vote', 'producer', 'arts', 'grad', 'visual', 'designer', 'resident', 'chicago', 'question', 'marry', 'long', 'help', 'clean', 'free', 'pay', 'want', 'air', 'food', 'water', 'house', 'music', 'founder', 'company', 'content', 'creator', 'culture', 'gun', 'healthcare', 'psn', 'industry', 'life', 'advocate', 'american', 'live'] 
+
+
+top 50 words in topic 17
+-------------------------
+['fuck', 'fighter', 'fight', 'youtuber', 'field', 'fashion', 'fast', 'father', 'fav', 'fear', 'feature', 'fee', 'favorite', 'feel', 'goofy', 'cub', 'cowboys', 'introvert', 'pretty', 'joke', 'major', 'football', 'therapy', 'game', 'anime', 'money', 'sneakers', 'snapchat', 'unite', 'collect', 'count', 'art', 'big', 'tour', 'gonna', 'addict', 'instagram', 'college', 'owner', 'love', 'dream', 'class', 'videographer', 'music', 'history', 'cashapp', 'photographer', 'video', 'read', 'mother'] 
+
+
+top 50 words in topic 18
+-------------------------
+['nerd', 'team', 'san', 'transplant', 'snapchat', 'awesome', 'kentucky', 'worker', 'trojan', 'specialist', 'woman', 'kill', 'bedroom', 'catch', 'veteran', 'blue', 'man', 'lord', 'bad', 'forever', 'state', 'navy', 'family', 'blm', 'trans', 'poet', 'son', 'disney', 'instagram', 'writer', 'gal', 'opinions', 'sign', 'growth', 'music', 'american', 'social', 'good', 'experience', 'kid', 'unite', 'cover', 'filmmaker', 'manager', 'actor', 'box', 'tiktok', 'black', 'marry', 'boy'] 
+
+
+top 50 words in topic 19
+-------------------------
+['comic', 'update', 'ass', 'free', 'happen', 'philadelphia', 'papa', 'unt', 'raw', 'pretty', 'teacher', 'urban', 'bear', 'junkie', 'football', 'advice', 'owner', 'veteran', 'trade', 'thinker', 'hot', 'study', 'word', 'pan', 'currently', 'irl', 'create', 'mean', 'business', 'like', 'crypto', 'random', 'girl', 'self', 'creativity', 'yoga', 'trader', 'chicago', 'spiritual', 'collector', 'father', 'play', 'love', 'certify', 'things', 'cash', 'husband', 'win', 'dad', 'want'] 
+
+
+top 50 words in topic 20
+-------------------------
+['music', 'art', 'business', 'market', 'pussy', 'proud', 'cute', 'design', 'male', 'introvert', 'chocolate', 'poly', 'town', 'baby', 'hospital', 'buff', 'movie', 'advocate', 'owner', 'freedom', 'small', 'free', 'cocktails', 'spirit', 'gift', 'good', 'raise', 'publisher', 'book', 'performer', 'reader', 'cartoon', 'chicago', 'comic', 'bisexual', 'fan', 'drag', 'photographer', 'politics', 'work', 'sport', 'wrestle', 'easy', 'sign', 'marry', 'bad', 'great', 'personal', 'lover', 'guy'] 
+
+
+top 50 words in topic 21
+-------------------------
+['smart', 'biden', 'publish', 'author', 'california', 'board', 'university', 'psn', 'profit', 'student', 'tech', 'spirit', 'christian', 'free', 'amaze', 'health', 'entrepreneur', 'ceo', 'market', 'maker', 'media', 'figure', 'impact', 'influencer', 'nft', 'crypto', 'gemini', 'things', 'blm', 'texas', 'time', 'discord', 'fun', 'dog', 'like', 'dallas', 'fall', 'double', 'twitch', 'art', 'politics', 'news', 'xxx', 'bisexual', 'agency', 'content', 'nigga', 'writer', 'girl', 'love'] 
+
+
+top 50 words in topic 22
+-------------------------
+['big', 'dreamer', 'american', 'ninja', 'web', 'work', 'friend', 'teacher', 'pop', 'good', 'chef', 'culture', 'painter', 'beer', 'create', 'double', 'town', 'family', 'impact', 'university', 'washington', 'home', 'digital', 'learn', 'major', 'connect', 'media', 'network', 'public', 'friends', 'lover', 'artist', 'people', 'gamer', 'bean', 'account', 'nature', 'proud', 'nerd', 'let', 'art', 'design', 'relations', 'sport', 'foodie', 'photographer', 'music', 'city', 'peace', 'love'] 
+
+
+top 50 words in topic 23
+-------------------------
+['everyday', 'better', 'sexual', 'person', 'money', 'club', 'kid', 'coach', 'best', 'hop', 'travel', 'base', 'teacher', 'husband', 'singer', 'movies', 'liberal', 'traveler', 'sense', 'lover', 'cute', 'television', 'west', 'jesus', 'city', 'sport', 'tweet', 'politics', 'lot', 'pastor', 'man', 'faith', 'work', 'follow', 'mess', 'libra', 'aspire', 'coast', 'reality', 'queen', 'retire', 'midwest', 'tech', 'women', 'pay', 'volunteer', 'cancer', 'virgo', 'people', 'love'] 
+
+
+top 50 words in topic 24
+-------------------------
+['pro', 'fighter', 'evil', 'friends', 'team', 'base', 'music', 'grammy', 'woman', 'right', 'cause', 'moon', 'mess', 'photographer', 'consultant', 'bad', 'design', 'cars', 'partner', 'web', 'agent', 'project', 'blm', 'president', 'media', 'past', 'club', 'manager', 'blue', 'dog', 'health', 'jazz', 'sense', 'entrepreneur', 'faith', 'deep', 'strong', 'life', 'audio', 'lol', 'art', 'free', 'mixer', 'love', 'radio', 'nyc', 'local', 'amateur', 'engineer', 'save'] 
+
+
+top 50 words in topic 25
+-------------------------
+['cashapp', 'television', 'want', 'think', 'blogger', 'opinion', 'son', 'original', 'actor', 'brother', 'piece', 'nfts', 'collect', 'clean', 'street', 'nyc', 'cook', 'children', 'proud', 'mom', 'grow', 'health', 'creative', 'husband', 'father', 'art', 'people', 'collector', 'geek', 'design', 'real', 'work', 'pop', 'rule', 'license', 'rock', 'horror', 'author', 'dad', 'maker', 'favorite', 'photographer', 'dog', 'fanatic', 'radio', 'welcome', 'visual', 'love', 'movies', 'artist'] 
+
+
+top 50 words in topic 26
+-------------------------
+['advocate', 'trump', 'cowboys', 'probably', 'tweeter', 'concert', 'personality', 'journalist', 'inquiries', 'twitter', 'book', 'songwriter', 'bear', 'shark', 'opinions', 'sport', 'media', 'plant', 'check', 'central', 'talent', 'metaverse', 'ceo', 'break', 'influencer', 'help', 'nft', 'veteran', 'crypto', 'market', 'real', 'coach', 'personal', 'videos', 'hockey', 'guess', 'house', 'support', 'instagram', 'lord', 'army', 'spur', 'east', 'michael', 'south', 'athlete', 'creator', 'news', 'jesus', 'author'] 
+
+
+top 50 words in topic 27
+-------------------------
+['information', 'random', 'cocktails', 'property', 'journalist', 'geek', 'queen', 'advisor', 'communications', 'right', 'professionals', 'bisexual', 'win', 'emmy', 'estate', 'exec', 'florida', 'help', 'writer', 'great', 'peace', 'favorite', 'book', 'fighter', 'money', 'voice', 'cancer', 'taste', 'daily', 'nerd', 'real', 'twitch', 'fan', 'political', 'alumna', 'woman', 'lot', 'senior', 'board', 'teach', 'collector', 'son', 'place', 'music', 'super', 'person', 'stream', 'new', 'love', 'things'] 
+
+
+top 50 words in topic 28
+-------------------------
+['world', 'things', 'candidate', 'district', 'nature', 'houston', 'south', 'future', 'cult', 'season', 'therapy', 'leader', 'dude', 'stage', 'bad', 'comedy', 'grammy', 'creative', 'designer', 'style', 'write', 'stuff', 'include', 'artist', 'inspire', 'oakland', 'latino', 'photos', 'defense', 'junkie', 'dog', 'attorney', 'producer', 'travel', 'kentucky', 'florida', 'photography', 'ambassador', 'bear', 'best', 'wife', 'mom', 'new', 'joke', 'animal', 'paint', 'blood', 'lover', 'podcast', 'life'] 
+
+
+top 50 words in topic 29
+-------------------------
+['lakers', 'dodgers', 'currently', 'custom', 'metal', 'red', 'design', 'paint', 'plant', 'self', 'knit', 'wrestle', 'promoter', 'food', 'dallas', 'guitar', 'lose', 'movies', 'street', 'worker', 'nsfw', 'respect', 'partner', 'drag', 'daily', 'artist', 'creator', 'grand', 'book', 'team', 'owner', 'great', 'gamer', 'warzone', 'performer', 'esports', 'enjoy', 'sponsor', 'real', 'affiliate', 'trans', 'twitch', 'train', 'sex', 'coach', 'sport', 'dog', 'matter', 'black', 'live'] 
+
+
+top 50 words in topic 30
+-------------------------
+['food', 'events', 'break', 'funny', 'brother', 'tweet', 'person', 'son', 'want', 'kind', 'license', 'liberal', 'clean', 'positivity', 'pop', 'marry', 'collector', 'friend', 'chef', 'speaker', 'husband', 'alumni', 'pastor', 'bean', 'think', 'sad', 'big', 'book', 'cocktails', 'bartender', 'blogger', 'cat', 'post', 'lion', 'lot', 'christ', 'talk', 'american', 'father', 'league', 'author', 'drink', 'fan', 'social', 'boston', 'worker', 'trump', 'baseball', 'shit', 'best'] 
+
+
+top 50 words in topic 31
+-------------------------
+['dog', 'actor', 'write', 'animal', 'vaxxed', 'video', 'band', 'concert', 'heart', 'tweeter', 'passion', 'young', 'friends', 'family', 'old', 'study', 'liberal', 'favorite', 'sport', 'watch', 'videos', 'play', 'dance', 'singer', 'sing', 'dream', 'stream', 'social', 'life', 'love', 'music', 'game', 'help', 'stick', 'tongue', 'soft', 'tiktok', 'design', 'traffic', 'advocate', 'mom', 'martial', 'cook', 'writer', 'mix', 'people', 'tweet', 'arts', 'youtube', 'like'] 
+
+
+top 50 words in topic 32
+-------------------------
+['development', 'free', 'air', 'bio', 'model', 'buy', 'code', 'money', 'amaze', 'pay', 'cause', 'meme', 'everyday', 'angeles', 'professor', 'project', 'art', 'sponsor', 'production', 'concert', 'story', 'merch', 'writer', 'connect', 'guild', 'friends', 'value', 'youtuber', 'programmer', 'theme', 'video', 'founder', 'media', 'artist', 'war', 'community', 'twitch', 'ravenclaw', 'affiliate', 'travel', 'begin', 'family', 'traveler', 'game', 'kind', 'relations', 'new', 'like', 'best', 'manager'] 
+
+
+top 50 words in topic 33
+-------------------------
+['philanthropist', 'self', 'designer', 'podcaster', 'track', 'autistic', 'young', 'video', 'book', 'game', 'comic', 'wrestle', 'cool', 'build', 'personal', 'things', 'stand', 'san', 'food', 'francisco', 'wine', 'right', 'change', 'washington', 'president', 'biden', 'walk', 'read', 'time', 'happy', 'retire', 'happily', 'live', 'account', 'detroit', 'old', 'bartender', 'chief', 'family', 'love', 'state', 'endorsement', 'knight', 'buck', 'man', 'weather', 'like', 'watch', 'insta', 'snap'] 
+
+
+top 50 words in topic 34
+-------------------------
+['family', 'creator', 'women', 'wanna', 'cause', 'lot', 'native', 'brand', 'nyc', 'single', 'ambassador', 'lifestyle', 'represent', 'model', 'book', 'animals', 'friend', 'chicago', 'transit', 'board', 'big', 'urban', 'owner', 'train', 'fitness', 'assistant', 'basketball', 'nerd', 'like', 'great', 'sport', 'traveler', 'content', 'hate', 'recruit', 'father', 'tweet', 'coach', 'warriors', 'sagittarius', 'new', 'light', 'bring', 'college', 'coordinator', 'nsfw', 'fear', 'god', 'world', 'man'] 
+
+
+top 50 words in topic 35
+-------------------------
+['gal', 'sport', 'field', 'bar', 'obsess', 'drink', 'world', 'cat', 'ninja', 'sci', 'win', 'sunday', 'nurse', 'gay', 'organizer', 'teacher', 'team', 'activist', 'dude', 'like', 'big', 'break', 'ass', 'school', 'engineer', 'far', 'power', 'people', 'horny', 'guitar', 'guy', 'partner', 'kill', 'game', 'progressive', 'family', 'marry', 'lie', 'fanatic', 'lover', 'politics', 'father', 'artist', 'creator', 'nature', 'disable', 'love', 'rock', 'music', 'fun'] 
+
+
+top 50 words in topic 36
+-------------------------
+['shoot', 'historian', 'previously', 'grow', 'fitness', 'fun', 'aspire', 'cartoon', 'mother', 'strong', 'programmer', 'nfts', 'clean', 'graphics', 'travel', 'media', 'husband', 'include', 'man', 'family', 'vet', 'digital', 'jesus', 'sport', 'christ', 'kid', 'financial', 'opportunities', 'entrepreneur', 'health', 'lord', 'wife', 'save', 'author', 'television', 'quality', 'nft', 'scientist', 'stay', 'sound', 'football', 'beach', 'love', 'photography', 'make', 'like', 'humanity', 'photographer', 'game', 'film'] 
+
+
+top 50 words in topic 37
+-------------------------
+['son', 'medical', 'scientist', 'navigate', 'break', 'guild', 'software', 'industry', 'independent', 'cook', 'professionals', 'humanity', 'gun', 'comic', 'specialize', 'network', 'company', 'lgbtq', 'activist', 'digital', 'thinker', 'spiritual', 'blogger', 'trade', 'mind', 'punk', 'wave', 'grad', 'west', 'jazz', 'new', 'raise', 'black', 'post', 'book', 'mission', 'doctor', 'check', 'atlanta', 'embrace', 'writer', 'metal', 'fan', 'home', 'music', 'horror', 'future', 'available', 'free', 'photography'] 
+
+
+top 50 words in topic 38
+-------------------------
+['mind', 'credit', 'want', 'pay', 'family', 'kid', 'best', 'wife', 'earth', 'figure', 'thoughts', 'horny', 'enthusiast', 'sport', 'fanatic', 'positivity', 'crypto', 'knight', 'sound', 'leader', 'rapper', 'singer', 'easy', 'jazz', 'cat', 'build', 'dad', 'tech', 'artist', 'daily', 'consultant', 'short', 'food', 'think', 'arsenal', 'business', 'learn', 'entrepreneur', 'company', 'single', 'mission', 'award', 'win', 'angeles', 'book', 'phd', 'seattle', 'songwriter', 'engineer', 'producer'] 
+
+
+top 50 words in topic 39
+-------------------------
+['democrat', 'data', 'texas', 'phd', 'trojan', 'usc', 'stand', 'director', 'founder', 'sport', 'stuff', 'nfl', 'past', 'sunday', 'wife', 'teacher', 'school', 'art', 'mother', 'grandmother', 'restaurant', 'cat', 'transplant', 'denver', 'native', 'chicago', 'comedian', 'lgbtq', 'currently', 'actor', 'business', 'artist', 'state', 'award', 'christian', 'red', 'sci', 'employer', 'represent', 'enthusiast', 'dad', 'owner', 'instructor', 'senior', 'advisor', 'video', 'funny', 'ball', 'writer', 'educator'] 
+
+
+top 50 words in topic 40
+-------------------------
+['buy', 'book', 'fox', 'soul', 'travel', 'mental', 'coach', 'aviation', 'media', 'wine', 'code', 'learn', 'taste', 'earth', 'currently', 'web', 'journey', 'post', 'social', 'addict', 'traveler', 'opinions', 'mother', 'variety', 'big', 'joke', 'human', 'hour', 'chef', 'city', 'manager', 'podcast', 'guy', 'girl', 'account', 'cat', 'music', 'author', 'food', 'grow', 'advocate', 'american', 'beer', 'dog', 'grad', 'enthusiast', 'coffee', 'hard', 'student', 'work'] 
+
+
+top 50 words in topic 41
+-------------------------
+['american', 'change', 'grad', 'power', 'freedom', 'performer', 'heart', 'success', 'funny', 'person', 'click', 'gamer', 'angeles', 'story', 'bot', 'young', 'check', 'man', 'lover', 'dad', 'dog', 'veteran', 'student', 'wild', 'outdoors', 'chicago', 'sport', 'reporter', 'proud', 'instructor', 'family', 'cat', 'girl', 'research', 'poet', 'tweet', 'create', 'wake', 'boy', 'human', 'productions', 'blogger', 'women', 'artist', 'obsess', 'new', 'let', 'right', 'build', 'old'] 
+
+
+top 50 words in topic 42
+-------------------------
+['journey', 'metaverse', 'introvert', 'product', 'sneakers', 'pizza', 'regular', 'personal', 'biden', 'liberal', 'musician', 'adventure', 'advocate', 'opinion', 'lgbtq', 'events', 'director', 'tweeter', 'forget', 'modern', 'dice', 'mean', 'roll', 'rule', 'wrestle', 'play', 'retire', 'work', 'win', 'university', 'pro', 'anchor', 'philanthropist', 'ninja', 'counselor', 'web', 'care', 'chef', 'podcast', 'guy', 'new', 'tweet', 'owner', 'winter', 'chill', 'long', 'diego', 'san', 'good', 'time'] 
+
+
+top 50 words in topic 43
+-------------------------
+['emmy', 'phil', 'volunteer', 'ceo', 'professional', 'crazy', 'guild', 'design', 'product', 'chief', 'real', 'traffic', 'retire', 'dad', 'athlete', 'meteorologist', 'field', 'game', 'stay', 'data', 'web', 'latest', 'travel', 'tip', 'cash', 'credit', 'bay', 'media', 'nfts', 'advocate', 'art', 'culture', 'end', 'social', 'crypto', 'american', 'history', 'account', 'expert', 'marathon', 'gift', 'native', 'time', 'black', 'official', 'truth', 'report', 'home', 'monitor', 'founder'] 
+
+
+top 50 words in topic 44
+-------------------------
+['single', 'human', 'scientist', 'coach', 'student', 'thinker', 'water', 'talk', 'man', 'advocate', 'social', 'writer', 'check', 'chicago', 'comedian', 'mental', 'impact', 'trap', 'county', 'lover', 'podcaster', 'podcast', 'daddy', 'health', 'book', 'grad', 'school', 'girl', 'break', 'smile', 'work', 'sex', 'law', 'creator', 'york', 'music', 'marry', 'graphic', 'conservative', 'scene', 'seahawks', 'army', 'mean', 'lose', 'male', 'creative', 'vet', 'teach', 'self', 'teacher'] 
+
+
+top 50 words in topic 45
+-------------------------
+['code', 'dice', 'people', 'ones', 'lot', 'feature', 'connect', 'service', 'professionals', 'self', 'drink', 'water', 'creator', 'post', 'proud', 'family', 'speak', 'mother', 'care', 'vet', 'grandma', 'home', 'beautiful', 'project', 'kid', 'funny', 'power', 'children', 'politics', 'war', 'work', 'art', 'things', 'want', 'enthusiast', 'designer', 'available', 'smile', 'photo', 'democrat', 'mom', 'music', 'master', 'wife', 'money', 'mind', 'inquiries', 'crypto', 'study', 'business'] 
+
+
+top 50 words in topic 46
+-------------------------
+['fight', 'twitch', 'nsfw', 'street', 'welcome', 'storyteller', 'addict', 'team', 'wine', 'walk', 'enthusiast', 'defense', 'football', 'gonna', 'district', 'like', 'shit', 'modern', 'dance', 'historian', 'professor', 'grad', 'event', 'president', 'game', 'actor', 'blogger', 'mom', 'daily', 'productions', 'wife', 'voice', 'visual', 'time', 'live', 'model', 'shark', 'control', 'security', 'vaxxed', 'baseball', 'retire', 'creative', 'owner', 'cinematographer', 'mask', 'king', 'fuck', 'director', 'long'] 
+
+
+top 50 words in topic 47
+-------------------------
+['speak', 'die', 'young', 'metal', 'comic', 'singer', 'announcer', 'book', 'model', 'inquiries', 'earth', 'actor', 'god', 'creativity', 'major', 'organizer', 'field', 'tweet', 'profit', 'public', 'specialize', 'professional', 'estate', 'photographer', 'event', 'partner', 'regular', 'run', 'person', 'school', 'president', 'american', 'husband', 'podcast', 'old', 'owner', 'reader', 'culture', 'pro', 'mental', 'baseball', 'shoot', 'real', 'gift', 'health', 'boston', 'media', 'guitar', 'player', 'kid'] 
+
+
+top 50 words in topic 48
+-------------------------
+['live', 'love', 'creator', 'bless', 'ones', 'speak', 'trader', 'specialist', 'event', 'boys', 'gay', 'fox', 'like', 'dream', 'click', 'respond', 'onlyfans', 'girl', 'real', 'account', 'brother', 'favorite', 'tour', 'events', 'stream', 'south', 'seattle', 'data', 'world', 'company', 'base', 'digital', 'build', 'angeles', 'producer', 'energy', 'story', 'sad', 'success', 'writer', 'podcast', 'club', 'help', 'california', 'old', 'previously', 'forever', 'lead', 'party', 'southern'] 
+
+
+top 50 words in topic 49
+-------------------------
+['nfl', 'basketball', 'nba', 'teacher', 'single', 'read', 'atlanta', 'twitter', 'vaxxed', 'tweet', 'home', 'nfts', 'connoisseur', 'consultant', 'good', 'private', 'block', 'click', 'videos', 'original', 'power', 'sweet', 'word', 'care', 'kind', 'coach', 'post', 'bartender', 'broncos', 'public', 'dude', 'model', 'free', 'therapy', 'football', 'wife', 'mom', 'education', 'estate', 'real', 'art', 'sport', 'proud', 'ncaa', 'catch', 'speak', 'big', 'progressive', 'music', 'instagram'] 
+
+
+top 50 words in topic 50
+-------------------------
+['pro', 'collect', 'style', 'bad', 'irl', 'ball', 'icon', 'check', 'technology', 'cinema', 'filmmaker', 'sales', 'manager', 'product', 'actor', 'bitch', 'pussy', 'dick', 'junkie', 'chef', 'movie', 'nsfw', 'traveler', 'network', 'coffee', 'fast', 'happy', 'brother', 'build', 'texas', 'sunday', 'long', 'west', 'industry', 'hour', 'run', 'burn', 'director', 'photographer', 'writer', 'esports', 'girl', 'president', 'like', 'production', 'big', 'music', 'night', 'founder', 'ceo'] 
+
+
+top 50 words in topic 51
+-------------------------
+['truth', 'photographer', 'want', 'private', 'sign', 'die', 'leave', 'forget', 'report', 'emmy', 'win', 'denver', 'fox', 'journalist', 'award', 'short', 'high', 'medical', 'quality', 'county', 'write', 'things', 'obsess', 'player', 'pan', 'poly', 'trans', 'good', 'small', 'designer', 'guy', 'graphic', 'business', 'founder', 'model', 'community', 'brand', 'podcast', 'onlyfans', 'violence', 'care', 'food', 'health', 'profit', 'owner', 'bring', 'nyc', 'earth', 'creator', 'content'] 
+
+
+top 50 words in topic 52
+-------------------------
+['bio', 'company', 'digital', 'tweet', 'navigate', 'personal', 'inspire', 'stan', 'official', 'piece', 'woman', 'long', 'master', 'sweet', 'dad', 'rapper', 'laugh', 'rip', 'lakers', 'retire', 'track', 'favorite', 'today', 'ones', 'anime', 'developer', 'enthusiast', 'design', 'book', 'check', 'specialist', 'black', 'football', 'cat', 'owner', 'help', 'fan', 'writer', 'freak', 'city', 'visit', 'traffic', 'transit', 'daddy', 'update', 'feature', 'website', 'state', 'york', 'new'] 
+
+
+top 50 words in topic 53
+-------------------------
+['cub', 'seahawks', 'education', 'law', 'block', 'lawyer', 'cat', 'opinions', 'expert', 'development', 'native', 'georgia', 'real', 'estate', 'cal', 'nyc', 'widow', 'trap', 'travel', 'marry', 'baby', 'hospital', 'check', 'new', 'political', 'dad', 'podcast', 'actor', 'clean', 'nature', 'tree', 'animals', 'dodgers', 'lakers', 'anime', 'cartoon', 'lover', 'ucla', 'friends', 'father', 'husband', 'navy', 'walk', 'bar', 'hate', 'proud', 'angeles', 'fan', 'love', 'plant'] 
+
+
+top 50 words in topic 54
+-------------------------
+['wanna', 'leave', 'latest', 'help', 'tip', 'news', 'knit', 'husband', 'custom', 'personality', 'care', 'dad', 'proud', 'old', 'lifestyle', 'estate', 'advocate', 'conservative', 'blogger', 'trump', 'support', 'foodie', 'forget', 'label', 'ass', 'oakland', 'event', 'shoot', 'stand', 'film', 'hour', 'special', 'comedian', 'comedy', 'insta', 'music', 'photographer', 'future', 'awesome', 'like', 'amaze', 'record', 'hand', 'independent', 'single', 'real', 'rest', 'friends', 'partner', 'look'] 
+
+
+top 50 words in topic 55
+-------------------------
+['local', 'cool', 'wanna', 'experience', 'currently', 'enjoy', 'play', 'thoughts', 'raw', 'editor', 'wild', 'tongue', 'washington', 'report', 'transit', 'seattle', 'public', 'opinion', 'friends', 'make', 'good', 'best', 'texas', 'town', 'smart', 'small', 'lifestyle', 'entertainment', 'let', 'girl', 'author', 'die', 'community', 'musician', 'watch', 'talk', 'traffic', 'news', 'service', 'music', 'stop', 'unofficial', 'scanner', 'automate', 'post', 'artist', 'ass', 'vegas', 'create', 'fee'] 
+
+
+top 50 words in topic 56
+-------------------------
+['bartender', 'employer', 'sport', 'stan', 'plant', 'junkie', 'trap', 'concert', 'faith', 'angeles', 'model', 'leader', 'brother', 'activist', 'change', 'trans', 'student', 'health', 'public', 'favorite', 'mind', 'people', 'independent', 'texas', 'cool', 'thinker', 'wild', 'software', 'manager', 'tech', 'web', 'unite', 'fan', 'emmy', 'designer', 'respect', 'work', 'future', 'history', 'pastor', 'politics', 'assistant', 'sun', 'executive', 'developer', 'director', 'opinions', 'art', 'currently', 'write'] 
+
+
+top 50 words in topic 57
+-------------------------
+['icon', 'queen', 'season', 'dreamer', 'photo', 'choreographer', 'fitness', 'cook', 'tiktok', 'model', 'mixer', 'sport', 'alumnus', 'candidate', 'cover', 'politics', 'streamer', 'twitch', 'variety', 'tweet', 'male', 'advocate', 'punk', 'win', 'jesus', 'veteran', 'pro', 'cowboys', 'spur', 'war', 'god', 'metal', 'fan', 'big', 'sleep', 'miss', 'far', 'faith', 'record', 'cashapp', 'evil', 'dancer', 'poly', 'fight', 'tattoo', 'stuff', 'affiliate', 'leave', 'better', 'light'] 
+
+
+top 50 words in topic 58
+-------------------------
+['opinions', 'graphics', 'air', 'business', 'senior', 'dream', 'navy', 'bar', 'sales', 'veteran', 'creator', 'tweet', 'technology', 'consultant', 'merch', 'storyteller', 'history', 'single', 'writer', 'dad', 'coffee', 'grad', 'buff', 'basketball', 'dancer', 'lookin', 'mom', 'anti', 'fun', 'beach', 'travel', 'retire', 'bay', 'tik', 'tok', 'politics', 'free', 'game', 'grand', 'disney', 'love', 'trump', 'oregon', 'unmonitored', 'develop', 'office', 'national', 'contact', 'service', 'weather'] 
+
+
+top 50 words in topic 59
+-------------------------
+['biology', 'disable', 'old', 'gamer', 'cashapp', 'subscribe', 'democrat', 'buff', 'queen', 'nerd', 'onlyfans', 'ucla', 'history', 'backup', 'meme', 'connoisseur', 'enthusiast', 'certify', 'party', 'promoter', 'snapchat', 'digital', 'hop', 'publish', 'speaker', 'drink', 'beautiful', 'face', 'vegas', 'matter', 'dance', 'choreographer', 'box', 'club', 'fighter', 'videographer', 'champion', 'love', 'life', 'personal', 'entrepreneur', 'cal', 'business', 'actress', 'retire', 'trainer', 'twitter', 'professional', 'owner', 'writer'] 
+
+
+top 50 words in topic 0
+-------------------------
+['food', 'great', 'base', 'arts', 'philly', 'influencer', 'designer', 'gay', 'chargers', 'grandma', 'historian', 'bring', 'boston', 'democrat', 'health', 'worker', 'husband', 'stream', 'actor', 'news', 'chef', 'real', 'crypto', 'podcast', 'education', 'mom', 'independent', 'lead', 'politics', 'experience', 'tour', 'club', 'science', 'drink', 'soul', 'kid', 'social', 'production', 'kind', 'history', 'night', 'major', 'book', 'official', 'proud', 'music', 'tweet', 'coach', 'best', 'account'] 
+
+
+top 50 words in topic 1
+-------------------------
+['moon', 'truth', 'oregon', 'grand', 'label', 'read', 'photo', 'raise', 'art', 'news', 'virgo', 'culture', 'old', 'dog', 'book', 'mom', 'tech', 'wife', 'home', 'livin', 'happen', 'breed', 'place', 'state', 'travel', 'time', 'black', 'things', 'writer', 'sport', 'knight', 'sun', 'bay', 'model', 'love', 'bear', 'bio', 'new', 'unmonitored', 'develop', 'contact', 'texas', 'national', 'office', 'producer', 'live', 'service', 'man', 'weather', 'retire'] 
+
+
+top 50 words in topic 2
+-------------------------
+['beer', 'wave', 'future', 'lakers', 'teach', 'team', 'owner', 'lot', 'organizer', 'bitch', 'let', 'human', 'fight', 'leave', 'money', 'grad', 'world', 'navy', 'vet', 'dad', 'author', 'blue', 'rip', 'rest', 'favorite', 'nerd', 'city', 'horror', 'film', 'musician', 'angeles', 'write', 'light', 'god', 'creative', 'american', 'things', 'fun', 'self', 'football', 'writer', 'raise', 'girl', 'content', 'artist', 'professional', 'love', 'cat', 'creator', 'fan'] 
+
+
+top 50 words in topic 3
+-------------------------
+['dancer', 'horny', 'beach', 'alumna', 'tattoo', 'seattle', 'rock', 'water', 'entertainment', 'women', 'university', 'learn', 'play', 'fan', 'bartender', 'writer', 'talk', 'big', 'arts', 'personal', 'long', 'win', 'diego', 'friends', 'read', 'actor', 'pay', 'sport', 'book', 'owner', 'let', 'youtube', 'san', 'currently', 'nurse', 'family', 'video', 'cashapp', 'engineer', 'game', 'photographer', 'business', 'want', 'matter', 'love', 'black', 'music', 'life', 'like', 'live'] 
+
+
+top 50 words in topic 4
+-------------------------
+['disable', 'video', 'past', 'player', 'represent', 'seattle', 'transit', 'partner', 'league', 'cal', 'york', 'update', 'dog', 'proud', 'best', 'champion', 'employer', 'new', 'insta', 'guitar', 'ambassador', 'photographer', 'owner', 'content', 'creator', 'father', 'movies', 'watch', 'vegas', 'stuff', 'brand', 'alumnus', 'old', 'bear', 'life', 'fanatic', 'writer', 'fan', 'check', 'traffic', 'die', 'sport', 'marry', 'state', 'nyc', 'university', 'snap', 'tweet', 'instagram', 'baseball'] 
+
+
+top 50 words in topic 5
+-------------------------
+['chicago', 'travel', 'emmy', 'founder', 'touch', 'private', 'guy', 'award', 'anti', 'movies', 'energy', 'question', 'wild', 'animals', 'grad', 'mix', 'college', 'old', 'big', 'certify', 'ball', 'forever', 'fuck', 'lot', 'fan', 'author', 'producer', 'lover', 'new', 'man', 'earth', 'better', 'king', 'family', 'people', 'trump', 'beautiful', 'traveler', 'fear', 'win', 'play', 'ceo', 'california', 'things', 'twitter', 'student', 'time', 'god', 'life', 'love'] 
+
+
+top 50 words in topic 6
+-------------------------
+['feel', 'award', 'advocate', 'cook', 'blogger', 'business', 'funny', 'raise', 'politics', 'work', 'engineer', 'food', 'health', 'estate', 'bear', 'class', 'record', 'study', 'person', 'care', 'therapy', 'comic', 'enjoy', 'shit', 'photographer', 'lover', 'free', 'punk', 'love', 'producer', 'project', 'real', 'writer', 'podcast', 'pro', 'design', 'mother', 'life', 'big', 'songwriter', 'singer', 'photography', 'wrestle', 'fan', 'art', 'book', 'new', 'artist', 'music', 'follow'] 
+
+
+top 50 words in topic 7
+-------------------------
+['owner', 'mind', 'editor', 'usc', 'educator', 'nsfw', 'trader', 'consultant', 'ucla', 'politics', 'founder', 'music', 'lover', 'ass', 'support', 'report', 'inspire', 'radio', 'model', 'health', 'writer', 'advocate', 'creator', 'journalist', 'jesus', 'digital', 'senior', 'progressive', 'follow', 'market', 'live', 'game', 'manager', 'photographer', 'wanna', 'artist', 'guy', 'travel', 'help', 'sport', 'post', 'fan', 'public', 'long', 'opinions', 'state', 'social', 'good', 'time', 'media'] 
+
+
+top 50 words in topic 8
+-------------------------
+['faith', 'freak', 'bisexual', 'connecticut', 'rule', 'mom', 'tiktok', 'stream', 'personal', 'insta', 'college', 'instagram', 'make', 'american', 'nerd', 'respond', 'proud', 'guy', 'streamer', 'business', 'new', 'dream', 'good', 'follow', 'thoughts', 'hate', 'bitch', 'hard', 'photographer', 'ceo', 'play', 'veteran', 'real', 'girl', 'dog', 'owner', 'affiliate', 'director', 'live', 'enthusiast', 'founder', 'tweet', 'world', 'husband', 'twitch', 'like', 'father', 'look', 'work', 'snapchat'] 
+
+
+top 50 words in topic 9
+-------------------------
+['producer', 'san', 'wife', 'addict', 'voice', 'culture', 'connect', 'currently', 'speak', 'brother', 'party', 'radio', 'visual', 'football', 'future', 'writer', 'illustrator', 'houston', 'welcome', 'art', 'create', 'ceo', 'founder', 'learn', 'son', 'husband', 'actor', 'nft', 'high', 'blm', 'sport', 'lover', 'old', 'friend', 'owner', 'nerd', 'war', 'gamer', 'artist', 'teacher', 'time', 'dog', 'people', 'music', 'school', 'mom', 'star', 'designer', 'dad', 'collector'] 
+
+
+top 50 words in topic 0
+-------------------------
+['filmmaker', 'financial', 'fitness', 'dream', 'florida', 'post', 'shit', 'bisexual', 'dancer', 'model', 'arts', 'student', 'right', 'professionals', 'grow', 'best', 'help', 'estate', 'property', 'control', 'base', 'band', 'want', 'food', 'clean', 'water', 'live', 'air', 'backup', 'real', 'fan', 'business', 'free', 'product', 'reader', 'ninja', 'pay', 'train', 'quality', 'punk', 'certify', 'energy', 'chicago', 'healthcare', 'life', 'account', 'house', 'entertainment', 'official', 'twitter'] 
+
+
+top 50 words in topic 1
+-------------------------
+['women', 'ones', 'mess', 'human', 'picture', 'block', 'bot', 'normal', 'run', 'bean', 'sport', 'baby', 'media', 'communications', 'market', 'meteorologist', 'deep', 'runner', 'beer', 'play', 'bring', 'bear', 'healthcare', 'work', 'world', 'florida', 'estate', 'talent', 'value', 'raise', 'service', 'seattle', 'truth', 'forever', 'comedian', 'dad', 'regular', 'real', 'sagittarius', 'social', 'let', 'live', 'love', 'like', 'texas', 'build', 'experience', 'heart', 'bless', 'boy'] 
+
+
+top 50 words in topic 2
+-------------------------
+['buff', 'events', 'club', 'podcast', 'tour', 'write', 'build', 'lot', 'drink', 'play', 'coffee', 'nerd', 'vegan', 'money', 'fight', 'sci', 'creator', 'ninja', 'film', 'husband', 'media', 'include', 'photography', 'make', 'dodgers', 'anime', 'navy', 'lakers', 'friends', 'fan', 'cartoon', 'world', 'gonna', 'talent', 'vet', 'musician', 'digital', 'stream', 'lover', 'history', 'cat', 'man', 'ucla', 'raise', 'angeles', 'artist', 'family', 'fun', 'love', 'god'] 
+
+
+top 50 words in topic 3
+-------------------------
+['speak', 'face', 'youtube', 'band', 'cover', 'columbia', 'rock', 'fitness', 'employer', 'trap', 'plant', 'stan', 'beach', 'quality', 'variety', 'life', 'previously', 'lose', 'mixer', 'sex', 'performer', 'partner', 'nsfw', 'worker', 'drag', 'like', 'black', 'music', 'love', 'matter', 'funny', 'live', 'talk', 'street', 'respect', 'subscribe', 'fun', 'streamer', 'let', 'news', 'assistant', 'nurse', 'bitch', 'trans', 'knight', 'onlyfans', 'bartender', 'bio', 'twitch', 'affiliate'] 
+
+
+top 50 words in topic 4
+-------------------------
+['baseball', 'play', 'modern', 'mean', 'win', 'forget', 'rule', 'army', 'ambassador', 'father', 'fan', 'disable', 'brand', 'veteran', 'marry', 'photography', 'education', 'proud', 'writer', 'digital', 'kind', 'activist', 'power', 'speak', 'sweet', 'mind', 'coach', 'trade', 'blogger', 'check', 'thinker', 'care', 'life', 'university', 'roll', 'far', 'spiritual', 'free', 'guitar', 'leave', 'lead', 'tweet', 'dice', 'word', 'code', 'player', 'music', 'model', 'tiktok', 'video'] 
+
+
+top 50 words in topic 5
+-------------------------
+['affiliate', 'nft', 'producer', 'exec', 'podcaster', 'cancer', 'practice', 'focus', 'oklahoma', 'senior', 'advisor', 'trojan', 'progressive', 'democrat', 'usc', 'ball', 'certify', 'build', 'run', 'brother', 'burn', 'study', 'hot', 'girl', 'random', 'long', 'fast', 'cool', 'mind', 'texas', 'respect', 'independent', 'fan', 'love', 'art', 'artist', 'cowboys', 'guess', 'history', 'people', 'high', 'chef', 'stay', 'cub', 'probably', 'stage', 'thinker', 'inspire', 'like', 'class'] 
+
+
+top 50 words in topic 6
+-------------------------
+['rock', 'favorite', 'hate', 'movies', 'band', 'horror', 'awesome', 'unt', 'nsfw', 'stand', 'help', 'talent', 'special', 'army', 'comedian', 'hour', 'shoot', 'comedy', 'ceo', 'athlete', 'amaze', 'veteran', 'coach', 'author', 'children', 'war', 'politics', 'film', 'photographer', 'gang', 'paint', 'design', 'peace', 'rest', 'nature', 'nfts', 'follow', 'real', 'life', 'business', 'major', 'snap', 'fan', 'love', 'therapy', 'account', 'study', 'enjoy', 'art', 'photography'] 
+
+
+top 50 words in topic 7
+-------------------------
+['season', 'health', 'counselor', 'strong', 'spirit', 'knit', 'specialist', 'research', 'employer', 'community', 'development', 'support', 'meteorologist', 'aviation', 'past', 'geek', 'fan', 'veteran', 'sales', 'politics', 'business', 'senior', 'air', 'technology', 'navy', 'love', 'cancer', 'tech', 'singer', 'liberal', 'traveler', 'sense', 'retire', 'trader', 'writer', 'kentucky', 'youtube', 'manager', 'sport', 'teacher', 'soft', 'seattle', 'lover', 'consultant', 'educator', 'touch', 'alumnus', 'social', 'media', 'opinions'] 
+
+
+top 50 words in topic 8
+-------------------------
+['endorsement', 'smart', 'control', 'navigate', 'usc', 'history', 'politics', 'class', 'person', 'speaker', 'fitness', 'joke', 'tech', 'stage', 'husband', 'blue', 'vote', 'animals', 'journey', 'taste', 'addict', 'currently', 'code', 'wine', 'student', 'traveler', 'sport', 'dog', 'wrestle', 'promoter', 'book', 'movies', 'dallas', 'guitar', 'owner', 'food', 'tree', 'play', 'wave', 'old', 'earth', 'lose', 'save', 'gun', 'opinions', 'like', 'learn', 'father', 'california', 'nerd'] 
+
+
+top 50 words in topic 9
+-------------------------
+['resident', 'wife', 'college', 'chicago', 'kid', 'recruit', 'basketball', 'funny', 'actor', 'women', 'information', 'beautiful', 'marry', 'healthcare', 'voice', 'blogger', 'help', 'master', 'home', 'big', 'far', 'dude', 'break', 'win', 'lie', 'like', 'ass', 'gay', 'horny', 'owner', 'check', 'new', 'sleep', 'text', 'want', 'sponsor', 'die', 'power', 'fee', 'productions', 'super', 'question', 'coach', 'life', 'project', 'work', 'good', 'mom', 'long', 'time'] 
+
+
+top 50 words in topic 10
+-------------------------
+['financial', 'feature', 'book', 'boy', 'original', 'bio', 'events', 'people', 'tik', 'family', 'fav', 'tok', 'expert', 'talk', 'connecticut', 'single', 'male', 'lose', 'editor', 'liberal', 'nerd', 'forever', 'lover', 'collector', 'shit', 'vote', 'videos', 'nft', 'author', 'mom', 'teacher', 'creator', 'insta', 'love', 'artist', 'video', 'publish', 'base', 'game', 'man', 'singer', 'cool', 'like', 'taste', 'let', 'shoot', 'alumna', 'livin', 'visual', 'photographer'] 
+
+
+top 50 words in topic 11
+-------------------------
+['web', 'click', 'actress', 'data', 'commit', 'school', 'county', 'ncaa', 'high', 'alumnus', 'politics', 'kings', 'candidate', 'chargers', 'cover', 'sport', 'welcome', 'bring', 'fan', 'help', 'series', 'world', 'comedian', 'activist', 'actor', 'rapper', 'artist', 'writer', 'athlete', 'martial', 'organizer', 'real', 'girl', 'pacific', 'goal', 'coast', 'lakers', 'dodgers', 'model', 'bedroom', 'league', 'tweet', 'time', 'horror', 'baseball', 'random', 'metal', 'baby', 'champion', 'proud'] 
+
+
+top 50 words in topic 12
+-------------------------
+['pay', 'hop', 'arsenal', 'introvert', 'pretty', 'joke', 'ambassador', 'single', 'advisor', 'financial', 'american', 'voice', 'mom', 'black', 'washington', 'enjoy', 'transplant', 'person', 'click', 'blogger', 'gamer', 'follow', 'poet', 'new', 'self', 'law', 'smile', 'mean', 'sex', 'creative', 'grad', 'creator', 'blue', 'currently', 'funny', 'work', 'school', 'beautiful', 'break', 'artist', 'fan', 'mind', 'native', 'nyc', 'life', 'sun', 'nsfw', 'girl', 'university', 'state'] 
+
+
+top 50 words in topic 13
+-------------------------
+['hand', 'runner', 'army', 'market', 'icon', 'club', 'truck', 'meteorologist', 'enjoy', 'text', 'help', 'everyday', 'best', 'friend', 'miss', 'dancer', 'pop', 'collector', 'influencer', 'fan', 'merch', 'tik', 'tok', 'creator', 'daddy', 'trap', 'comedian', 'podcaster', 'podcast', 'county', 'artist', 'work', 'writer', 'illustrator', 'chef', 'scene', 'nurse', 'fast', 'think', 'tweet', 'marry', 'book', 'disney', 'bar', 'let', 'professional', 'check', 'dream', 'american', 'designer'] 
+
+
+top 50 words in topic 14
+-------------------------
+['digital', 'lead', 'company', 'build', 'author', 'bartender', 'cocktails', 'blogger', 'boy', 'president', 'person', 'avid', 'regular', 'american', 'hard', 'runner', 'unite', 'junkie', 'die', 'school', 'love', 'taste', 'fighter', 'daily', 'voice', 'cancer', 'new', 'owner', 'man', 'broncos', 'movies', 'game', 'politics', 'beach', 'team', 'book', 'help', 'media', 'teach', 'things', 'art', 'drink', 'fan', 'follow', 'podcaster', 'run', 'money', 'food', 'travel', 'boston'] 
+
+
+top 50 words in topic 15
+-------------------------
+['people', 'feature', 'bay', 'oakland', 'student', 'athletics', 'east', 'god', 'sing', 'lol', 'happen', 'modern', 'owner', 'lead', 'research', 'historian', 'professor', 'dance', 'website', 'life', 'amaze', 'lifestyle', 'advocate', 'care', 'clean', 'dad', 'foodie', 'nature', 'blogger', 'tree', 'account', 'houston', 'season', 'worker', 'real', 'estate', 'district', 'relations', 'network', 'animals', 'walk', 'home', 'industry', 'specialist', 'social', 'state', 'plant', 'connect', 'love', 'texas'] 
+
+
+top 50 words in topic 16
+-------------------------
+['father', 'founder', 'friend', 'freedom', 'fox', 'family', 'fast', 'free', 'fashion', 'francisco', 'far', 'fav', 'fanatic', 'twitter', 'cover', 'judge', 'film', 'horror', 'obsess', 'wild', 'tongue', 'author', 'raw', 'executive', 'leader', 'director', 'industry', 'independent', 'professionals', 'specialize', 'home', 'company', 'work', 'comic', 'faith', 'fan', 'book', 'pastor', 'songwriter', 'editor', 'hunter', 'singer', 'develop', 'contact', 'unmonitored', 'national', 'service', 'office', 'weather', 'follow'] 
+
+
+top 50 words in topic 17
+-------------------------
+['kid', 'chief', 'cat', 'designer', 'scientist', 'like', 'creativity', 'crypto', 'bitch', 'dick', 'sci', 'writer', 'organizer', 'pop', 'educator', 'culture', 'biden', 'president', 'walk', 'state', 'retire', 'washington', 'school', 'grandmother', 'owner', 'teacher', 'wife', 'restaurant', 'sunday', 'christian', 'art', 'big', 'win', 'pussy', 'want', 'nft', 'marry', 'collector', 'happily', 'happy', 'dog', 'instructor', 'artist', 'read', 'universe', 'arts', 'friend', 'time', 'love', 'mother'] 
+
+
+top 50 words in topic 18
+-------------------------
+['west', 'american', 'disable', 'thoughts', 'unite', 'director', 'development', 'retire', 'autistic', 'announcer', 'inquiries', 'kid', 'track', 'earth', 'major', 'man', 'weather', 'entertainment', 'help', 'metaverse', 'law', 'read', 'god', 'beauty', 'travel', 'introvert', 'opinions', 'laugh', 'sound', 'feature', 'movies', 'artist', 'nyc', 'irl', 'account', 'bring', 'fashion', 'good', 'founder', 'old', 'book', 'love', 'writer', 'death', 'nft', 'music', 'actor', 'marry', 'shit', 'write'] 
+
+
+top 50 words in topic 19
+-------------------------
+['chocolate', 'people', 'advocate', 'history', 'board', 'communications', 'cover', 'college', 'information', 'past', 'proud', 'big', 'philanthropist', 'ucla', 'beautiful', 'kid', 'world', 'marry', 'actress', 'animal', 'friend', 'travel', 'graduate', 'children', 'pan', 'irl', 'word', 'mean', 'currently', 'dad', 'lover', 'specialize', 'papa', 'update', 'win', 'producer', 'stream', 'box', 'oregon', 'yoga', 'high', 'progressive', 'school', 'sport', 'love', 'create', 'fan', 'public', 'play', 'things'] 
+
+
+top 50 words in topic 20
+-------------------------
+['cashapp', 'heart', 'support', 'old', 'proud', 'researcher', 'phd', 'sport', 'mission', 'arsenal', 'buff', 'easy', 'movie', 'health', 'mental', 'advocate', 'impact', 'chicago', 'creative', 'grad', 'leader', 'philanthropist', 'knight', 'chief', 'podcaster', 'columbia', 'usc', 'designer', 'player', 'things', 'write', 'creator', 'trans', 'poly', 'pan', 'obsess', 'conservative', 'mean', 'medical', 'success', 'self', 'man', 'lover', 'food', 'dead', 'single', 'blm', 'let', 'friends', 'look'] 
+
+
+top 50 words in topic 21
+-------------------------
+['outdoors', 'lead', 'wife', 'talk', 'nigga', 'gang', 'dead', 'big', 'graphic', 'designer', 'cult', 'politics', 'fanatic', 'film', 'dog', 'work', 'roll', 'rule', 'earth', 'custom', 'private', 'rock', 'forget', 'follow', 'tip', 'help', 'news', 'latest', 'wanna', 'burn', 'insta', 'stop', 'man', 'writer', 'leave', 'girl', 'sign', 'freak', 'read', 'die', 'love', 'account', 'great', 'kid', 'want', 'young', 'new', 'book', 'favorite', 'old'] 
+
+
+top 50 words in topic 22
+-------------------------
+['light', 'real', 'culture', 'city', 'major', 'proud', 'professional', 'hop', 'enthusiast', 'painter', 'illustrator', 'lover', 'quality', 'create', 'community', 'clean', 'focus', 'president', 'raise', 'soccer', 'matter', 'time', 'play', 'sci', 'new', 'nerd', 'fan', 'sport', 'traveler', 'songwriter', 'singer', 'musician', 'ceo', 'photographer', 'happen', 'oklahoma', 'man', 'independent', 'michael', 'enjoy', 'bring', 'bear', 'biology', 'millionaire', 'coach', 'cal', 'future', 'fighter', 'life', 'pro'] 
+
+
+top 50 words in topic 23
+-------------------------
+['lawyer', 'political', 'events', 'lgbtq', 'philanthropist', 'podcast', 'avid', 'travel', 'voice', 'black', 'professional', 'actor', 'mental', 'coffee', 'aviation', 'bean', 'discord', 'jazz', 'world', 'pop', 'politics', 'husband', 'aspire', 'television', 'coast', 'cute', 'west', 'work', 'stuff', 'fanatic', 'art', 'check', 'gym', 'party', 'life', 'public', 'advocate', 'super', 'bring', 'science', 'music', 'midwest', 'future', 'embrace', 'health', 'movies', 'creative', 'fan', 'love', 'director'] 
+
+
+top 50 words in topic 24
+-------------------------
+['libra', 'deep', 'run', 'teacher', 'worker', 'license', 'humanist', 'positivity', 'happily', 'cult', 'clean', 'democrat', 'energy', 'real', 'girl', 'onlyfans', 'respond', 'beer', 'learn', 'home', 'friends', 'town', 'family', 'club', 'kid', 'coach', 'hop', 'best', 'travel', 'software', 'social', 'talk', 'aficionado', 'fan', 'click', 'life', 'dream', 'composer', 'engineer', 'designer', 'arts', 'man', 'liberal', 'volunteer', 'watch', 'base', 'night', 'love', 'producer', 'music'] 
+
+
+top 50 words in topic 25
+-------------------------
+['father', 'hate', 'american', 'philosophy', 'check', 'fan', 'personality', 'feature', 'cat', 'passion', 'outdoors', 'big', 'retire', 'lakers', 'rapper', 'heart', 'laugh', 'crypto', 'enthusiast', 'daily', 'positivity', 'fanatic', 'financial', 'lord', 'kid', 'make', 'opportunities', 'dad', 'want', 'wife', 'goofy', 'rest', 'short', 'seattle', 'health', 'entrepreneur', 'sport', 'youtube', 'lion', 'adventure', 'christ', 'proud', 'live', 'rip', 'jesus', 'like', 'radio', 'best', 'love', 'life'] 
+
+
+top 50 words in topic 26
+-------------------------
+['tok', 'bio', 'tik', 'man', 'kind', 'best', 'animals', 'travel', 'game', 'opinions', 'advice', 'advocate', 'dancer', 'tattoo', 'cashapp', 'friend', 'care', 'big', 'break', 'videos', 'metaverse', 'impact', 'ceo', 'agency', 'figure', 'media', 'artist', 'twitter', 'want', 'male', 'visual', 'student', 'play', 'american', 'maker', 'poly', 'mom', 'news', 'nft', 'music', 'book', 'entrepreneur', 'fall', 'influencer', 'inquiries', 'trump', 'grad', 'crypto', 'market', 'business'] 
+
+
+top 50 words in topic 27
+-------------------------
+['variety', 'alumnus', 'change', 'american', 'leave', 'build', 'gaymer', 'social', 'play', 'reality', 'awesome', 'feel', 'star', 'pay', 'family', 'daily', 'nerd', 'spirituality', 'research', 'mom', 'run', 'faith', 'school', 'health', 'information', 'website', 'visit', 'opportunities', 'latest', 'dog', 'life', 'horny', 'unt', 'videographer', 'sad', 'drug', 'thoughts', 'think', 'want', 'talk', 'retire', 'streamer', 'twitch', 'business', 'learn', 'ball', 'love', 'teach', 'senior', 'live'] 
+
+
+top 50 words in topic 28
+-------------------------
+['post', 'free', 'wave', 'georgia', 'leo', 'daily', 'life', 'speaker', 'drink', 'beautiful', 'matter', 'vegas', 'raise', 'bartender', 'bear', 'model', 'big', 'girl', 'real', 'agent', 'team', 'service', 'musician', 'estate', 'award', 'win', 'anchor', 'guy', 'lover', 'city', 'instructor', 'chicago', 'proud', 'blogger', 'family', 'human', 'media', 'reporter', 'ambassador', 'license', 'humanity', 'writer', 'actress', 'face', 'blue', 'play', 'sport', 'women', 'cinematographer', 'right'] 
+
+
+top 50 words in topic 29
+-------------------------
+['philosophy', 'wife', 'change', 'hop', 'junkie', 'sunday', 'nurse', 'organizer', 'engineer', 'teacher', 'team', 'people', 'power', 'high', 'daily', 'past', 'reporter', 'recruit', 'today', 'affiliate', 'ravenclaw', 'lead', 'fan', 'san', 'snapchat', 'father', 'mom', 'women', 'central', 'activist', 'esports', 'sign', 'coach', 'right', 'east', 'husband', 'dad', 'middle', 'marvel', 'music', 'twitch', 'retire', 'proud', 'wanna', 'south', 'nerd', 'sport', 'school', 'war', 'star'] 
+
+
+top 50 words in topic 30
+-------------------------
+['endorsement', 'generation', 'positivity', 'aspire', 'speak', 'brother', 'middle', 'pastor', 'christ', 'speaker', 'raw', 'pizza', 'wrestle', 'pro', 'hand', 'normal', 'blogger', 'conservative', 'daddy', 'student', 'traveler', 'time', 'father', 'adventure', 'begin', 'mental', 'man', 'great', 'son', 'light', 'nyc', 'league', 'trump', 'bear', 'peace', 'real', 'winter', 'stick', 'graduate', 'breed', 'author', 'crazy', 'raise', 'baseball', 'fan', 'long', 'bitch', 'matter', 'black', 'live'] 
+
+
+top 50 words in topic 31
+-------------------------
+['old', 'southern', 'scorpio', 'soul', 'trump', 'biden', 'face', 'queen', 'advisor', 'exec', 'board', 'communications', 'learn', 'teach', 'beauty', 'heart', 'truth', 'activist', 'walk', 'lead', 'kid', 'disney', 'trans', 'blm', 'stuff', 'include', 'follow', 'write', 'podcast', 'coach', 'resident', 'things', 'bring', 'vaxxed', 'actor', 'dog', 'lover', 'teacher', 'poet', 'son', 'voice', 'blood', 'writer', 'team', 'mask', 'feel', 'place', 'welcome', 'world', 'new'] 
+
+
+top 50 words in topic 32
+-------------------------
+['guitar', 'politics', 'partner', 'cartoon', 'strong', 'mother', 'author', 'stay', 'run', 'outdoors', 'new', 'league', 'feature', 'war', 'enjoy', 'currently', 'experience', 'talk', 'create', 'storyteller', 'comic', 'coffee', 'thinker', 'single', 'dad', 'grad', 'buff', 'collector', 'poet', 'history', 'connect', 'merch', 'relations', 'concert', 'best', 'story', 'fan', 'love', 'artist', 'music', 'star', 'production', 'aspire', 'basketball', 'writer', 'kind', 'wrestle', 'vegas', 'local', 'manager'] 
+
+
+top 50 words in topic 33
+-------------------------
+['soul', 'goth', 'red', 'icon', 'record', 'warriors', 'san', 'fanatic', 'state', 'oakland', 'francisco', 'athletics', 'fun', 'wanna', 'play', 'food', 'stand', 'drag', 'programmer', 'bartender', 'enthusiast', 'thoughts', 'bear', 'gun', 'end', 'raise', 'violence', 'chicago', 'alumni', 'passion', 'politics', 'photography', 'design', 'punk', 'traffic', 'stop', 'grand', 'stream', 'create', 'creative', 'organizer', 'fee', 'automate', 'scanner', 'unofficial', 'service', 'post', 'professional', 'snap', 'like'] 
+
+
+top 50 words in topic 34
+-------------------------
+['musician', 'counselor', 'biden', 'fear', 'hard', 'bisexual', 'love', 'girl', 'breed', 'alumnus', 'creativity', 'research', 'christian', 'actor', 'candidate', 'young', 'youtube', 'comic', 'coach', 'game', 'wrestle', 'video', 'wife', 'storyteller', 'dog', 'winner', 'anchor', 'mom', 'writer', 'model', 'like', 'author', 'fox', 'florida', 'special', 'buck', 'blm', 'better', 'warriors', 'husband', 'father', 'book', 'emmy', 'custom', 'videos', 'gift', 'buy', 'soul', 'news', 'god'] 
+
+
+top 50 words in topic 35
+-------------------------
+['philly', 'vet', 'bear', 'blm', 'bad', 'humanist', 'liberal', 'enjoy', 'buck', 'football', 'talk', 'chargers', 'die', 'hard', 'watch', 'native', 'account', 'field', 'metal', 'wine', 'bar', 'pro', 'war', 'drink', 'spur', 'cowboys', 'punk', 'young', 'martial', 'mix', 'family', 'passion', 'friends', 'arts', 'cute', 'lol', 'shop', 'veteran', 'wake', 'obsess', 'gal', 'state', 'love', 'cook', 'sport', 'nba', 'follow', 'life', 'collector', 'fan'] 
+
+
+top 50 words in topic 36
+-------------------------
+['fear', 'feature', 'fee', 'feel', 'field', 'fight', 'fast', 'illustrator', 'owner', 'account', 'business', 'star', 'designer', 'composer', 'sales', 'company', 'cinema', 'grad', 'news', 'advice', 'veteran', 'trade', 'east', 'painter', 'lord', 'obsess', 'tweeter', 'beauty', 'grow', 'high', 'trainer', 'south', 'personal', 'beautiful', 'children', 'marry', 'work', 'good', 'writer', 'trader', 'philosophy', 'father', 'stylist', 'coach', 'life', 'city', 'person', 'football', 'love', 'instagram'] 
+
+
+top 50 words in topic 37
+-------------------------
+['owner', 'college', 'basketball', 'history', 'tech', 'fitness', 'teacher', 'original', 'vet', 'wrestle', 'life', 'proud', 'social', 'mom', 'student', 'alumni', 'friend', 'lover', 'blogger', 'actor', 'post', 'psn', 'urban', 'animals', 'politics', 'leo', 'attorney', 'movies', 'train', 'journalist', 'navy', 'snapchat', 'podcast', 'coach', 'beer', 'board', 'writer', 'autistic', 'new', 'american', 'girl', 'political', 'advocate', 'addict', 'collector', 'fan', 'father', 'husband', 'dog', 'dad'] 
+
+
+top 50 words in topic 38
+-------------------------
+['audio', 'collector', 'award', 'emmy', 'winner', 'gemini', 'dance', 'trainer', 'box', 'professional', 'fighter', 'videographer', 'club', 'choreographer', 'champion', 'business', 'transplant', 'native', 'actor', 'dad', 'comedian', 'chicago', 'lgbtq', 'enthusiast', 'currently', 'look', 'future', 'producer', 'university', 'tattoo', 'politics', 'district', 'best', 'football', 'ncaa', 'cat', 'retire', 'artist', 'denver', 'chill', 'rapper', 'respond', 'man', 'songwriter', 'record', 'sport', 'connecticut', 'account', 'owner', 'engineer'] 
+
+
+top 50 words in topic 39
+-------------------------
+['soccer', 'picture', 'drag', 'american', 'angeles', 'proud', 'sweet', 'generation', 'pay', 'politics', 'everyday', 'meme', 'promoter', 'lifestyle', 'opinion', 'doctor', 'ass', 'best', 'alumnus', 'therapy', 'public', 'researcher', 'home', 'family', 'better', 'advocate', 'tree', 'place', 'university', 'world', 'entrepreneur', 'sport', 'creator', 'support', 'furry', 'chief', 'friends', 'red', 'actor', 'funny', 'snap', 'fanatic', 'like', 'cause', 'cat', 'insta', 'make', 'writer', 'good', 'podcast'] 
+
+
+top 50 words in topic 40
+-------------------------
+['specialize', 'tattoo', 'wrestle', 'winner', 'data', 'angeles', 'base', 'heart', 'brooklyn', 'tongue', 'let', 'nyc', 'vaxxed', 'soft', 'advocate', 'tweeter', 'big', 'insta', 'personal', 'build', 'endorsement', 'things', 'cool', 'geek', 'deep', 'speaker', 'south', 'fight', 'instructor', 'professor', 'journalist', 'bear', 'account', 'like', 'latino', 'lookin', 'mom', 'social', 'california', 'movie', 'writer', 'partner', 'dicks', 'southern', 'nigga', 'animal', 'lover', 'write', 'book', 'currently'] 
+
+
+top 50 words in topic 41
+-------------------------
+['movies', 'pop', 'consultant', 'buy', 'cashapp', 'amateur', 'cars', 'follow', 'liberal', 'spirituality', 'old', 'founder', 'profit', 'trans', 'seattle', 'speaker', 'champion', 'candidate', 'activist', 'radio', 'martial', 'health', 'jazz', 'deep', 'blue', 'entrepreneur', 'faith', 'strong', 'sense', 'university', 'dog', 'nerd', 'design', 'warzone', 'alumni', 'grandma', 'bully', 'politics', 'cancer', 'photographer', 'web', 'meme', 'queen', 'texas', 'art', 'virgo', 'artist', 'life', 'democrat', 'love'] 
+
+
+top 50 words in topic 42
+-------------------------
+['amaze', 'health', 'fitness', 'diego', 'foodie', 'stay', 'comedy', 'san', 'trainer', 'style', 'follow', 'entrepreneur', 'market', 'freedom', 'cocktails', 'wild', 'family', 'blood', 'taste', 'owner', 'native', 'small', 'art', 'good', 'fan', 'business', 'god', 'love', 'lord', 'jesus', 'personal', 'life', 'science', 'mix', 'blogger', 'tech', 'advocate', 'news', 'football', 'make', 'nerd', 'master', 'fear', 'fight', 'stream', 'spirit', 'politics', 'free', 'gamer', 'light'] 
+
+
+top 50 words in topic 43
+-------------------------
+['angeles', 'jazz', 'easy', 'forever', 'rip', 'single', 'singer', 'talk', 'culture', 'boy', 'songwriter', 'podcaster', 'lord', 'band', 'label', 'fun', 'model', 'nigga', 'brother', 'dick', 'university', 'create', 'double', 'washington', 'impact', 'digital', 'major', 'good', 'family', 'video', 'artist', 'pro', 'president', 'web', 'marathon', 'man', 'design', 'sport', 'art', 'security', 'boys', 'life', 'work', 'love', 'anime', 'bad', 'everyday', 'retire', 'game', 'guy'] 
+
+
+top 50 words in topic 44
+-------------------------
+['study', 'monitor', 'official', 'rest', 'event', 'raise', 'advocate', 'oakland', 'trump', 'record', 'thinker', 'water', 'composer', 'teacher', 'dreamer', 'family', 'student', 'man', 'scientist', 'singer', 'lover', 'entrepreneur', 'baseball', 'pro', 'rock', 'proud', 'fanatic', 'songwriter', 'dad', 'enthusiast', 'goth', 'dog', 'horror', 'anime', 'plant', 'metal', 'bitch', 'love', 'mom', 'currently', 'owner', 'wrestle', 'human', 'better', 'hot', 'label', 'support', 'hoe', 'diego', 'san'] 
+
+
+top 50 words in topic 45
+-------------------------
+['enthusiast', 'new', 'anime', 'design', 'today', 'furry', 'peace', 'developer', 'favorite', 'track', 'avid', 'actor', 'dancer', 'club', 'media', 'engineer', 'past', 'president', 'manager', 'black', 'director', 'creator', 'mom', 'author', 'world', 'entrepreneur', 'pansexual', 'audio', 'agency', 'disable', 'publish', 'help', 'best', 'crypto', 'raise', 'life', 'west', 'ones', 'inquiries', 'photo', 'radio', 'amateur', 'bear', 'writer', 'beautiful', 'available', 'wife', 'business', 'snapchat', 'owner'] 
+
+
+top 50 words in topic 46
+-------------------------
+['profit', 'software', 'denver', 'worker', 'fox', 'report', 'award', 'company', 'short', 'tech', 'build', 'nerd', 'dad', 'trans', 'activist', 'favorite', 'brother', 'change', 'health', 'public', 'currently', 'fun', 'double', 'dallas', 'discord', 'time', 'dog', 'art', 'author', 'emmy', 'coach', 'growth', 'blm', 'gemini', 'board', 'win', 'employer', 'data', 'things', 'game', 'cat', 'engineer', 'texas', 'student', 'represent', 'phd', 'journalist', 'college', 'stuff', 'enthusiast'] 
+
+
+top 50 words in topic 47
+-------------------------
+['growth', 'father', 'real', 'development', 'estate', 'native', 'husband', 'grandma', 'mom', 'artist', 'vet', 'proud', 'town', 'small', 'smart', 'texas', 'musician', 'live', 'mission', 'far', 'writer', 'grand', 'good', 'state', 'forever', 'football', 'hockey', 'affiliate', 'guild', 'theme', 'game', 'twitch', 'war', 'value', 'video', 'programmer', 'engineer', 'athlete', 'financial', 'ass', 'mixer', 'smile', 'like', 'girl', 'youtuber', 'instagram', 'georgia', 'friends', 'democrat', 'family'] 
+
+
+top 50 words in topic 48
+-------------------------
+['lawyer', 'sweet', 'hand', 'teach', 'phd', 'midwest', 'book', 'editor', 'bean', 'owner', 'wrestle', 'player', 'guitar', 'pro', 'media', 'native', 'art', 'end', 'culture', 'advocate', 'history', 'nfts', 'crypto', 'college', 'social', 'christian', 'tour', 'seattle', 'columbia', 'city', 'bay', 'black', 'fan', 'daddy', 'sex', 'speak', 'baseball', 'american', 'website', 'visit', 'film', 'hate', 'transit', 'update', 'state', 'writer', 'author', 'traffic', 'new', 'york'] 
+
+
+top 50 words in topic 49
+-------------------------
+['education', 'humanity', 'nyc', 'florida', 'angeles', 'designer', 'director', 'model', 'photo', 'happen', 'good', 'track', 'publisher', 'insta', 'record', 'volunteer', 'text', 'mixer', 'dude', 'snap', 'york', 'ceo', 'win', 'opinions', 'like', 'nft', 'phil', 'school', 'bear', 'cub', 'future', 'cat', 'report', 'creator', 'monitor', 'emmy', 'producer', 'music', 'bay', 'count', 'daughter', 'life', 'art', 'official', 'francisco', 'san', 'save', 'account', 'fan', 'big'] 
+
+
+top 50 words in topic 50
+-------------------------
+['brother', 'fear', 'kings', 'president', 'journalist', 'hockey', 'shark', 'spur', 'history', 'cook', 'proud', 'owner', 'practice', 'conservative', 'food', 'san', 'francisco', 'watch', 'wine', 'right', 'change', 'free', 'fun', 'mom', 'lookin', 'dancer', 'anti', 'beach', 'gift', 'tweet', 'weather', 'travel', 'sport', 'xbox', 'past', 'stand', 'advice', 'pay', 'retire', 'die', 'hospital', 'trump', 'read', 'love', 'family', 'bear', 'work', 'hard', 'ceo', 'founder'] 
+
+
+top 50 words in topic 51
+-------------------------
+['bear', 'talk', 'chargers', 'retire', 'bully', 'relations', 'media', 'freak', 'cal', 'aspire', 'knight', 'bad', 'tip', 'expert', 'latest', 'cash', 'restaurant', 'drag', 'reader', 'lover', 'performer', 'comic', 'cartoon', 'build', 'book', 'follow', 'brand', 'atlanta', 'truck', 'private', 'brooklyn', 'coordinator', 'chicago', 'bisexual', 'fan', 'account', 'founder', 'travel', 'company', 'executive', 'credit', 'fuck', 'win', 'help', 'award', 'like', 'lot', 'people', 'producer', 'tweet'] 
+
+
+top 50 words in topic 52
+-------------------------
+['veteran', 'design', 'male', 'vet', 'marry', 'york', 'media', 'mix', 'hop', 'historian', 'medical', 'navigate', 'break', 'guild', 'son', 'scientist', 'doctor', 'tech', 'modern', 'entrepreneur', 'travel', 'urban', 'entertainment', 'art', 'private', 'consultant', 'connoisseur', 'check', 'sun', 'guy', 'aries', 'lover', 'fan', 'big', 'designer', 'graphic', 'culture', 'philly', 'army', 'new', 'home', 'real', 'estate', 'rise', 'block', 'moon', 'owner', 'king', 'pizza', 'cashapp'] 
+
+
+top 50 words in topic 53
+-------------------------
+['certify', 'personal', 'hop', 'block', 'seahawks', 'trainer', 'digital', 'jesus', 'think', 'shit', 'post', 'bean', 'cat', 'editor', 'sad', 'streamer', 'reporter', 'author', 'lot', 'voice', 'county', 'quality', 'profit', 'medical', 'care', 'high', 'assistant', 'web', 'tech', 'wild', 'gamer', 'blue', 'software', 'xxx', 'hand', 'geek', 'navy', 'big', 'unite', 'actor', 'ucla', 'health', 'developer', 'fanatic', 'fan', 'love', 'community', 'manager', 'sport', 'lover'] 
+
+
+top 50 words in topic 54
+-------------------------
+['widow', 'hospital', 'care', 'cal', 'post', 'mind', 'marry', 'enthusiast', 'baby', 'trap', 'travel', 'red', 'plant', 'paint', 'knit', 'currently', 'metal', 'variety', 'big', 'food', 'hour', 'city', 'grow', 'chef', 'custom', 'design', 'designer', 'like', 'want', 'life', 'time', 'click', 'piece', 'comedy', 'sweet', 'nyc', 'health', 'mother', 'personal', 'joke', 'podcast', 'real', 'self', 'human', 'ass', 'cash', 'music', 'artist', 'content', 'creator'] 
+
+
